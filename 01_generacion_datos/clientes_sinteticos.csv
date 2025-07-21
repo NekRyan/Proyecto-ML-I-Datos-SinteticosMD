@@ -1,0 +1,1001 @@
+cliente_id,rubro_cliente,tamaño_empresa,presupuesto_mensual,tipo_servicio_solicitado,duración_interacción_meses,visitas_web_mensuales,interacciones_redes_mensuales,num_empleados,zona_geográfica,frecuencia_contacto,nivel_digitalizacion,satisfacción_cliente,contrató_servicio,monto_ventas_futuras
+1,Tecnología,Pequeña,19844.73,Consultoría,1,47391,3472,629,Oriente,Baja,Medio,9,1,38947.73
+2,Gastronomía,Pequeña,17058.21,Consultoría,8,27432,4021,199,Oriente,Media,Bajo,7,0,0.0
+3,Educación,Pequeña,4328.51,Redes Sociales,27,5694,3408,832,Norte,Alta,Bajo,4,0,0.0
+4,Gastronomía,Pequeña,18625.79,Publicidad,30,40399,2165,486,Sur,Media,Alto,7,1,82739.09
+5,Gastronomía,Pequeña,2504.05,SEO/SEM,33,7471,5976,533,Norte,Media,Medio,2,0,0.0
+6,Salud,Pequeña,16385.5,Redes Sociales,14,47415,7339,200,Centro,Baja,Alto,6,1,46933.84
+7,Educación,Pequeña,7736.34,Branding,24,18128,6967,371,Norte,Baja,Bajo,6,0,0.0
+8,Educación,Grande,17583.89,SEO/SEM,35,36012,9206,959,Centro,Media,Medio,2,0,0.0
+9,Educación,Pequeña,17387.52,Diseño,7,14090,5335,853,Centro,Baja,Bajo,4,0,0.0
+10,Gastronomía,Mediana,16157.32,SEO/SEM,8,46951,8528,448,Centro,Media,Medio,8,1,73467.13
+11,Tecnología,Pequeña,15842.6,SEO/SEM,36,16726,4713,248,Norte,Media,Alto,8,1,48989.8
+12,Educación,Grande,6232.65,Consultoría,31,20569,2716,788,Sur,Media,Alto,8,1,34914.83
+13,Otros,Pequeña,1802.2,SEO/SEM,16,40822,11,264,Norte,Media,Bajo,8,0,0.0
+14,Gastronomía,Pequeña,8179.01,Diseño,34,40137,9235,58,Sur,Media,Medio,1,0,0.0
+15,Salud,Grande,3635.79,Diseño,36,7230,8326,302,Sur,Media,Medio,2,0,0.0
+16,Tecnología,Grande,13960.03,Publicidad,18,6928,1114,31,Centro,Baja,Medio,4,0,0.0
+17,Otros,Mediana,7052.77,SEO/SEM,28,41712,1871,498,Norte,Baja,Bajo,9,1,29028.0
+18,Otros,Pequeña,19517.08,Consultoría,6,47088,5279,249,Sur,Baja,Alto,3,1,73478.95
+19,Salud,Pequeña,12891.25,SEO/SEM,27,39199,6953,605,Oriente,Alta,Alto,6,1,57926.12
+20,Tecnología,Mediana,16485.12,Branding,8,46265,8330,777,Sur,Baja,Alto,7,1,58858.49
+21,Gastronomía,Grande,2823.99,Branding,27,17983,447,271,Oriente,Media,Alto,8,1,15692.59
+22,Retail,Mediana,17267.89,Consultoría,5,43159,4856,606,Norte,Alta,Medio,7,0,0.0
+23,Tecnología,Mediana,18470.59,Publicidad,28,18642,3139,666,Norte,Media,Medio,3,0,0.0
+24,Salud,Pequeña,9843.83,Publicidad,16,43032,9423,394,Norte,Baja,Bajo,6,0,0.0
+25,Otros,Mediana,12203.81,Diseño,15,10550,8091,797,Sur,Alta,Bajo,5,0,0.0
+26,Gastronomía,Pequeña,15343.23,Diseño,22,20523,911,502,Lima,Baja,Medio,10,1,51400.61
+27,Tecnología,Pequeña,3661.8,Redes Sociales,30,2135,5408,592,Sur,Media,Alto,4,0,0.0
+28,Retail,Pequeña,10150.81,Consultoría,2,44331,6688,804,Sur,Alta,Alto,1,1,45368.71
+29,Retail,Mediana,8093.53,SEO/SEM,20,40845,5539,84,Centro,Media,Alto,7,1,22402.33
+30,Educación,Pequeña,3098.21,Consultoría,25,17341,6614,365,Centro,Media,Alto,8,1,7916.73
+31,Educación,Pequeña,7477.18,Redes Sociales,35,23254,3928,886,Sur,Baja,Alto,2,1,33013.51
+32,Salud,Mediana,1549.81,Diseño,36,25725,1077,549,Oriente,Media,Medio,7,0,0.0
+33,Tecnología,Pequeña,711.08,Consultoría,21,45050,36,342,Centro,Media,Alto,6,0,0.0
+34,Tecnología,Mediana,2876.29,Consultoría,11,33166,6947,839,Sur,Media,Medio,5,0,0.0
+35,Otros,Pequeña,19269.68,Diseño,12,33791,7274,407,Lima,Alta,Medio,4,0,0.0
+36,Otros,Pequeña,11080.68,Redes Sociales,10,13431,7128,425,Oriente,Alta,Alto,2,1,26640.76
+37,Otros,Mediana,19323.28,Diseño,15,20790,557,744,Norte,Alta,Alto,10,1,87444.66
+38,Educación,Pequeña,8763.46,Publicidad,7,19283,8768,93,Sur,Media,Bajo,6,0,0.0
+39,Tecnología,Pequeña,6373.96,SEO/SEM,1,39446,8905,848,Sur,Media,Bajo,5,0,0.0
+40,Tecnología,Pequeña,10221.61,Diseño,29,4975,5348,614,Oriente,Alta,Medio,2,0,0.0
+41,Retail,Pequeña,8902.33,Redes Sociales,29,12354,3150,412,Centro,Alta,Medio,10,1,23203.0
+42,Educación,Grande,2292.16,Branding,11,28721,8006,432,Centro,Media,Alto,7,0,0.0
+43,Gastronomía,Pequeña,12888.36,Publicidad,9,11005,1600,678,Centro,Baja,Medio,6,0,0.0
+44,Educación,Mediana,4477.56,Branding,10,46221,7786,159,Norte,Baja,Bajo,9,0,0.0
+45,Gastronomía,Pequeña,12467.84,Diseño,14,15982,4953,14,Oriente,Media,Medio,10,1,47260.03
+46,Retail,Mediana,13073.98,Publicidad,15,19141,9007,373,Oriente,Media,Bajo,5,0,0.0
+47,Salud,Mediana,3210.09,SEO/SEM,16,29198,7808,225,Centro,Alta,Bajo,9,0,0.0
+48,Tecnología,Mediana,1414.72,Diseño,25,42531,3801,505,Centro,Baja,Alto,9,1,2268.35
+49,Retail,Pequeña,15659.08,SEO/SEM,1,33809,1367,73,Lima,Baja,Medio,1,0,0.0
+50,Tecnología,Pequeña,9304.05,Consultoría,11,34775,8102,249,Lima,Media,Medio,5,0,0.0
+51,Otros,Pequeña,1351.64,Branding,25,4937,3235,511,Sur,Media,Bajo,9,0,0.0
+52,Salud,Grande,19898.35,Publicidad,22,46548,2470,603,Sur,Baja,Medio,7,0,0.0
+53,Salud,Mediana,1344.06,SEO/SEM,17,24589,8747,216,Oriente,Media,Alto,6,0,0.0
+54,Retail,Grande,13961.7,Redes Sociales,31,17727,2738,973,Oriente,Media,Medio,6,0,0.0
+55,Salud,Pequeña,19676.84,SEO/SEM,2,5796,6736,602,Norte,Media,Alto,7,1,76628.54
+56,Gastronomía,Mediana,4935.77,Redes Sociales,2,49094,7491,541,Norte,Media,Medio,1,0,0.0
+57,Salud,Grande,3016.54,Diseño,29,13643,6440,947,Lima,Media,Medio,4,0,0.0
+58,Tecnología,Pequeña,2603.42,Publicidad,0,12715,3124,817,Sur,Media,Medio,1,0,0.0
+59,Tecnología,Pequeña,6204.85,SEO/SEM,29,1566,626,939,Lima,Alta,Medio,6,0,0.0
+60,Tecnología,Mediana,2200.71,SEO/SEM,31,30871,3654,988,Lima,Baja,Alto,4,0,0.0
+61,Tecnología,Mediana,13904.79,Publicidad,27,18450,6423,220,Sur,Alta,Medio,1,0,0.0
+62,Gastronomía,Mediana,1433.38,SEO/SEM,20,475,1213,840,Norte,Media,Medio,9,0,0.0
+63,Educación,Pequeña,10286.56,Redes Sociales,12,33130,9961,727,Sur,Alta,Bajo,4,0,0.0
+64,Otros,Mediana,19934.6,SEO/SEM,26,20846,2575,221,Centro,Alta,Medio,6,0,0.0
+65,Retail,Pequeña,16316.61,Branding,35,22986,3184,389,Centro,Media,Alto,7,1,50279.15
+66,Tecnología,Pequeña,12381.34,Diseño,6,44448,3091,554,Centro,Media,Medio,8,1,26559.48
+67,Salud,Pequeña,6263.82,Consultoría,21,43004,2640,647,Oriente,Baja,Medio,9,1,19833.29
+68,Tecnología,Mediana,12553.14,Redes Sociales,9,32751,3171,42,Norte,Alta,Alto,9,1,24362.83
+69,Salud,Mediana,10635.42,Branding,14,7933,4331,676,Norte,Media,Medio,8,1,30535.06
+70,Otros,Mediana,8636.45,Diseño,14,1993,8871,873,Oriente,Media,Medio,10,1,24841.73
+71,Otros,Pequeña,2788.07,Publicidad,3,30673,6279,283,Lima,Media,Medio,3,0,0.0
+72,Otros,Grande,17754.76,Redes Sociales,31,31471,7109,58,Centro,Alta,Alto,2,1,36010.46
+73,Salud,Pequeña,9105.74,Consultoría,22,40974,7386,814,Centro,Baja,Alto,5,1,33474.76
+74,Tecnología,Mediana,4053.53,Diseño,5,11926,4088,834,Lima,Media,Medio,1,0,0.0
+75,Otros,Pequeña,7481.64,Consultoría,23,34520,5811,537,Sur,Media,Medio,3,0,0.0
+76,Gastronomía,Pequeña,8399.77,Publicidad,19,22024,4161,73,Sur,Media,Alto,1,1,26999.25
+77,Salud,Pequeña,16585.25,Publicidad,36,33467,8921,885,Norte,Media,Bajo,3,0,0.0
+78,Salud,Pequeña,14725.56,Redes Sociales,19,21299,2610,923,Oriente,Media,Medio,4,0,0.0
+79,Tecnología,Mediana,15432.24,SEO/SEM,11,25968,6185,129,Norte,Media,Bajo,7,0,0.0
+80,Salud,Mediana,418.42,Publicidad,32,8892,676,599,Sur,Alta,Alto,5,0,0.0
+81,Salud,Pequeña,8439.85,Diseño,27,20697,293,842,Lima,Baja,Bajo,5,0,0.0
+82,Otros,Grande,9730.61,SEO/SEM,7,36505,5850,426,Norte,Media,Medio,1,0,0.0
+83,Tecnología,Pequeña,580.01,Branding,0,32796,3575,948,Centro,Baja,Bajo,8,0,0.0
+84,Otros,Mediana,5344.3,Consultoría,36,43223,4603,665,Centro,Baja,Medio,4,0,0.0
+85,Otros,Grande,15253.74,SEO/SEM,21,16089,1475,694,Lima,Baja,Alto,10,1,69753.08
+86,Tecnología,Mediana,2914.77,Consultoría,5,29031,8331,125,Sur,Media,Medio,5,0,0.0
+87,Retail,Pequeña,10799.14,SEO/SEM,20,9390,4744,67,Centro,Media,Medio,2,0,0.0
+88,Otros,Grande,4461.0,Branding,31,38467,6267,6,Centro,Baja,Medio,1,0,0.0
+89,Gastronomía,Mediana,439.99,Publicidad,34,14442,7376,637,Oriente,Baja,Medio,9,0,0.0
+90,Gastronomía,Pequeña,4975.79,Branding,14,25041,3682,314,Norte,Alta,Alto,2,0,0.0
+91,Salud,Pequeña,19522.3,Publicidad,4,14045,7392,326,Sur,Baja,Medio,6,0,0.0
+92,Gastronomía,Mediana,16070.43,Publicidad,5,10862,6597,565,Norte,Alta,Alto,1,1,72974.8
+93,Salud,Mediana,19199.62,Consultoría,24,30233,1002,578,Sur,Baja,Medio,1,0,0.0
+94,Retail,Mediana,9859.51,Diseño,28,47180,6868,826,Centro,Media,Medio,9,1,24738.13
+95,Tecnología,Grande,2372.78,Branding,6,40250,2131,506,Oriente,Media,Medio,4,0,0.0
+96,Tecnología,Mediana,11049.6,SEO/SEM,12,27152,2233,82,Norte,Alta,Medio,9,1,47659.82
+97,Tecnología,Pequeña,9196.67,Branding,17,41850,4532,599,Centro,Media,Medio,5,0,0.0
+98,Gastronomía,Pequeña,16918.27,Consultoría,1,20053,3198,2,Sur,Media,Alto,7,1,51699.1
+99,Retail,Pequeña,2142.04,Publicidad,7,40575,3247,204,Norte,Baja,Medio,1,0,0.0
+100,Gastronomía,Mediana,9867.17,Consultoría,10,17230,4146,662,Norte,Media,Bajo,6,0,0.0
+101,Gastronomía,Pequeña,3170.96,Redes Sociales,32,31186,353,805,Centro,Media,Alto,8,1,5067.83
+102,Retail,Mediana,6628.58,Redes Sociales,26,4733,4714,404,Norte,Baja,Alto,1,1,20770.5
+103,Retail,Mediana,14799.67,SEO/SEM,19,17404,4833,103,Oriente,Baja,Bajo,9,1,34416.51
+104,Retail,Grande,9625.16,Consultoría,11,42137,4930,536,Oriente,Alta,Medio,3,0,0.0
+105,Retail,Pequeña,7642.59,SEO/SEM,30,32384,3211,368,Centro,Baja,Medio,1,0,0.0
+106,Tecnología,Mediana,8010.63,SEO/SEM,26,46646,5481,212,Sur,Media,Alto,1,1,10655.51
+107,Educación,Pequeña,9297.05,Redes Sociales,31,7108,898,577,Centro,Media,Alto,6,1,24306.13
+108,Educación,Mediana,15743.33,SEO/SEM,9,48391,9543,961,Oriente,Alta,Alto,6,1,65757.61
+109,Retail,Pequeña,17863.28,Redes Sociales,2,27505,7137,209,Lima,Alta,Alto,1,1,27986.19
+110,Educación,Pequeña,19115.63,Publicidad,26,36486,3730,763,Lima,Alta,Medio,3,0,0.0
+111,Educación,Mediana,15780.69,Consultoría,34,25473,2893,897,Norte,Baja,Alto,7,1,62337.48
+112,Retail,Pequeña,6445.06,SEO/SEM,30,20927,4222,117,Norte,Alta,Medio,10,1,26460.14
+113,Educación,Pequeña,13825.07,Redes Sociales,14,33140,6971,628,Lima,Baja,Bajo,3,0,0.0
+114,Gastronomía,Mediana,8864.54,Branding,15,13107,2425,749,Oriente,Media,Medio,3,0,0.0
+115,Salud,Mediana,5242.48,SEO/SEM,12,18257,9319,478,Norte,Media,Alto,3,1,31753.97
+116,Salud,Mediana,16849.26,Diseño,34,32257,3011,105,Centro,Baja,Alto,7,1,84195.76
+117,Retail,Mediana,960.84,Publicidad,10,35415,1748,495,Centro,Alta,Bajo,4,0,0.0
+118,Tecnología,Mediana,18054.89,Publicidad,20,36032,1374,771,Oriente,Baja,Alto,4,1,62573.61
+119,Retail,Pequeña,9337.25,Branding,10,21264,2718,46,Norte,Media,Alto,3,1,32526.78
+120,Tecnología,Pequeña,12816.59,Redes Sociales,29,14514,934,823,Centro,Media,Medio,10,1,68565.81
+121,Salud,Pequeña,13255.21,SEO/SEM,34,14427,161,331,Norte,Media,Medio,9,1,30586.07
+122,Retail,Grande,17923.33,Redes Sociales,21,48444,8787,216,Norte,Baja,Alto,2,1,52636.93
+123,Otros,Mediana,12806.06,Publicidad,30,1046,8054,982,Centro,Media,Medio,4,0,0.0
+124,Gastronomía,Pequeña,12355.88,Redes Sociales,13,14793,922,960,Lima,Alta,Bajo,8,1,35166.73
+125,Educación,Pequeña,1519.71,Publicidad,23,27341,2331,492,Centro,Media,Alto,6,0,0.0
+126,Tecnología,Grande,10464.48,Redes Sociales,31,49758,505,813,Oriente,Media,Alto,7,1,40582.82
+127,Otros,Pequeña,3173.35,Branding,35,30354,2158,922,Sur,Baja,Medio,7,0,0.0
+128,Educación,Mediana,14801.19,Consultoría,31,15640,566,845,Centro,Media,Alto,2,1,73249.71
+129,Educación,Mediana,10341.99,Branding,14,6819,1562,449,Norte,Alta,Medio,4,0,0.0
+130,Retail,Mediana,13668.51,Branding,34,41303,2130,536,Norte,Media,Bajo,10,1,62721.51
+131,Educación,Pequeña,1025.12,Consultoría,2,25181,3095,511,Centro,Media,Medio,10,0,0.0
+132,Gastronomía,Grande,1878.88,Consultoría,15,11450,3514,458,Sur,Media,Medio,6,0,0.0
+133,Otros,Grande,14383.2,SEO/SEM,4,36458,166,547,Centro,Media,Alto,3,1,69492.71
+134,Educación,Mediana,1627.27,SEO/SEM,20,32121,8936,536,Sur,Baja,Bajo,9,0,0.0
+135,Retail,Mediana,1610.88,Branding,9,42932,7515,540,Sur,Baja,Medio,4,0,0.0
+136,Gastronomía,Grande,439.75,Branding,18,28469,7172,484,Oriente,Media,Medio,10,0,0.0
+137,Salud,Mediana,19138.73,Publicidad,24,31828,5533,976,Norte,Media,Alto,2,1,63055.96
+138,Otros,Pequeña,14802.67,Publicidad,3,17676,7553,1000,Norte,Media,Bajo,6,0,0.0
+139,Educación,Mediana,7194.38,SEO/SEM,28,29101,8065,16,Sur,Media,Bajo,1,0,0.0
+140,Retail,Mediana,6071.4,Diseño,18,17948,4664,571,Norte,Media,Medio,6,0,0.0
+141,Salud,Pequeña,7124.12,Diseño,1,490,6260,977,Lima,Baja,Alto,10,1,9150.1
+142,Salud,Mediana,15538.14,SEO/SEM,9,22099,7256,243,Sur,Alta,Medio,1,0,0.0
+143,Tecnología,Grande,13295.14,Publicidad,24,45536,164,950,Norte,Media,Medio,8,1,42637.53
+144,Gastronomía,Grande,3866.87,Publicidad,19,11669,7960,207,Lima,Baja,Bajo,5,0,0.0
+145,Educación,Pequeña,3647.36,Diseño,18,13129,1006,912,Oriente,Baja,Alto,6,0,0.0
+146,Retail,Pequeña,2148.23,Redes Sociales,22,22590,4636,271,Norte,Alta,Bajo,2,0,0.0
+147,Tecnología,Grande,13273.99,Redes Sociales,23,45975,2915,761,Lima,Baja,Medio,2,0,0.0
+148,Gastronomía,Mediana,15334.58,Publicidad,10,35428,9379,994,Centro,Alta,Medio,9,1,54431.57
+149,Tecnología,Pequeña,5447.92,Redes Sociales,33,5967,163,779,Centro,Baja,Medio,3,0,0.0
+150,Otros,Grande,614.71,Consultoría,27,15384,7863,705,Lima,Alta,Alto,6,0,0.0
+151,Gastronomía,Grande,1827.0,SEO/SEM,4,34079,6491,847,Sur,Alta,Medio,10,0,0.0
+152,Gastronomía,Mediana,19363.63,SEO/SEM,4,9221,5609,730,Sur,Media,Alto,5,1,46705.77
+153,Educación,Mediana,6049.81,Publicidad,20,1639,1726,115,Norte,Baja,Alto,4,1,13810.44
+154,Gastronomía,Pequeña,15430.62,Branding,11,25588,796,580,Centro,Baja,Medio,10,1,67034.51
+155,Tecnología,Pequeña,12568.34,Diseño,3,17127,4378,299,Sur,Media,Alto,2,1,44308.64
+156,Gastronomía,Pequeña,7762.4,Publicidad,19,8793,8106,837,Sur,Media,Alto,8,1,23381.17
+157,Educación,Mediana,4272.61,Redes Sociales,24,9021,4282,483,Centro,Baja,Alto,10,1,17534.53
+158,Educación,Pequeña,2603.45,Diseño,13,10410,3777,397,Oriente,Baja,Medio,7,0,0.0
+159,Otros,Pequeña,12377.26,Branding,10,45612,8844,394,Sur,Media,Medio,2,0,0.0
+160,Tecnología,Pequeña,15537.75,Redes Sociales,31,31008,6004,75,Lima,Media,Medio,6,0,0.0
+161,Salud,Mediana,12949.3,Consultoría,10,4486,7226,978,Norte,Baja,Alto,8,1,52529.48
+162,Salud,Grande,10699.98,Redes Sociales,17,32363,8867,482,Sur,Baja,Medio,7,0,0.0
+163,Gastronomía,Pequeña,1030.63,Consultoría,26,28512,3436,103,Sur,Alta,Medio,1,0,0.0
+164,Otros,Pequeña,19376.08,Diseño,17,17403,3793,297,Oriente,Media,Medio,5,0,0.0
+165,Retail,Mediana,16014.54,Consultoría,22,12342,5437,178,Lima,Media,Medio,2,0,0.0
+166,Gastronomía,Pequeña,5997.88,Diseño,10,47125,7021,215,Norte,Media,Medio,6,0,0.0
+167,Otros,Pequeña,19603.41,Diseño,20,9047,8062,967,Sur,Baja,Bajo,7,0,0.0
+168,Tecnología,Pequeña,12117.26,Diseño,4,46814,3711,315,Norte,Media,Medio,7,0,0.0
+169,Tecnología,Pequeña,11731.97,Diseño,22,6030,9271,39,Centro,Media,Alto,3,1,54928.55
+170,Tecnología,Pequeña,15011.85,Diseño,24,38270,2359,259,Sur,Alta,Medio,7,0,0.0
+171,Tecnología,Pequeña,16273.04,Redes Sociales,9,48885,7021,716,Sur,Media,Alto,5,1,43491.37
+172,Tecnología,Pequeña,13198.28,Diseño,21,607,7065,7,Centro,Baja,Bajo,8,1,47630.18
+173,Otros,Grande,2736.3,Redes Sociales,18,1536,1222,49,Oriente,Alta,Medio,8,0,0.0
+174,Otros,Pequeña,6897.7,Diseño,0,27251,6975,538,Sur,Media,Alto,7,1,13384.49
+175,Educación,Mediana,18576.06,Consultoría,6,11718,9354,161,Norte,Alta,Alto,6,1,64775.91
+176,Salud,Mediana,4647.39,Diseño,3,8850,6714,869,Lima,Alta,Medio,2,0,0.0
+177,Tecnología,Pequeña,7568.91,Branding,0,16222,7443,176,Norte,Baja,Alto,6,1,34623.09
+178,Retail,Mediana,8755.12,Diseño,14,7454,2521,591,Oriente,Media,Alto,9,1,42477.53
+179,Otros,Pequeña,8900.22,Diseño,11,44162,153,2,Lima,Media,Alto,2,1,46971.8
+180,Retail,Grande,12336.2,Consultoría,21,31079,7377,895,Norte,Media,Medio,1,0,0.0
+181,Retail,Pequeña,18872.9,SEO/SEM,21,21000,3238,455,Norte,Media,Bajo,5,0,0.0
+182,Retail,Pequeña,4965.72,Consultoría,16,13940,4592,928,Centro,Alta,Medio,6,0,0.0
+183,Educación,Pequeña,2605.73,Branding,28,37267,6041,644,Oriente,Media,Medio,3,0,0.0
+184,Otros,Grande,4109.92,SEO/SEM,13,5137,4253,276,Centro,Baja,Bajo,8,0,0.0
+185,Retail,Mediana,17761.11,Publicidad,19,28733,9559,498,Lima,Baja,Alto,7,1,68422.26
+186,Tecnología,Mediana,12987.05,Publicidad,32,24595,2723,629,Centro,Media,Bajo,2,0,0.0
+187,Gastronomía,Pequeña,5860.95,Branding,14,15948,4195,676,Oriente,Baja,Medio,7,0,0.0
+188,Retail,Mediana,16355.75,Consultoría,11,36583,9559,800,Sur,Media,Medio,1,0,0.0
+189,Educación,Pequeña,17255.13,Redes Sociales,19,47745,7338,28,Sur,Media,Alto,9,1,71139.91
+190,Otros,Grande,16960.98,Branding,29,7937,4643,333,Lima,Media,Medio,7,0,0.0
+191,Educación,Pequeña,18394.75,SEO/SEM,2,34169,3202,1,Sur,Baja,Alto,6,1,47207.15
+192,Retail,Pequeña,5194.37,SEO/SEM,27,7470,310,188,Centro,Media,Medio,2,0,0.0
+193,Otros,Pequeña,15149.83,Diseño,25,6511,733,56,Lima,Baja,Alto,3,1,68858.54
+194,Gastronomía,Pequeña,9318.68,Publicidad,29,39233,5704,547,Oriente,Media,Alto,1,1,33918.68
+195,Retail,Mediana,16871.57,SEO/SEM,12,30599,3020,112,Lima,Media,Medio,10,1,61758.76
+196,Educación,Pequeña,14624.12,Branding,12,30325,5565,798,Lima,Media,Alto,5,1,31865.84
+197,Salud,Mediana,15573.66,SEO/SEM,1,48317,77,310,Norte,Media,Bajo,9,1,50522.53
+198,Tecnología,Pequeña,13192.0,Branding,36,792,2516,36,Norte,Baja,Medio,6,0,0.0
+199,Educación,Mediana,3713.09,Redes Sociales,1,29026,1547,439,Lima,Media,Bajo,5,0,0.0
+200,Otros,Pequeña,10991.53,Diseño,35,34346,407,729,Sur,Baja,Medio,3,0,0.0
+201,Retail,Pequeña,19696.46,Publicidad,25,39264,5690,592,Norte,Media,Alto,5,1,51973.62
+202,Tecnología,Mediana,18760.28,SEO/SEM,10,8548,9365,826,Oriente,Baja,Bajo,8,1,53451.1
+203,Retail,Pequeña,1054.84,Branding,7,43490,4835,595,Centro,Media,Medio,2,0,0.0
+204,Otros,Pequeña,3463.33,Consultoría,21,49693,8757,577,Norte,Alta,Medio,5,0,0.0
+205,Retail,Grande,2808.23,Publicidad,19,10173,6058,325,Lima,Media,Medio,6,0,0.0
+206,Salud,Grande,14574.4,Redes Sociales,7,35514,3671,640,Sur,Media,Medio,10,1,52992.14
+207,Tecnología,Pequeña,16392.15,Branding,28,5309,9953,307,Centro,Media,Alto,8,1,62089.61
+208,Tecnología,Pequeña,4427.53,Diseño,25,6633,2951,534,Norte,Baja,Bajo,8,0,0.0
+209,Otros,Mediana,10215.88,Diseño,29,21161,7077,728,Sur,Alta,Medio,5,0,0.0
+210,Salud,Pequeña,16845.92,Redes Sociales,16,7311,5101,619,Sur,Baja,Medio,9,1,54761.32
+211,Educación,Pequeña,14709.47,Redes Sociales,19,10027,1611,109,Sur,Alta,Medio,4,0,0.0
+212,Retail,Pequeña,10936.3,Diseño,15,12027,1490,372,Lima,Media,Medio,9,1,49358.37
+213,Gastronomía,Mediana,11888.88,SEO/SEM,6,24694,6240,357,Oriente,Media,Alto,7,1,54701.72
+214,Retail,Mediana,10265.54,SEO/SEM,15,9416,9304,181,Sur,Media,Medio,6,0,0.0
+215,Retail,Pequeña,6091.46,Branding,26,12277,3286,356,Centro,Media,Medio,4,0,0.0
+216,Educación,Pequeña,11387.44,Consultoría,22,10946,6457,676,Norte,Media,Bajo,2,0,0.0
+217,Retail,Pequeña,13839.93,Branding,23,8033,5509,68,Centro,Baja,Medio,8,1,59437.66
+218,Salud,Mediana,17491.79,Consultoría,8,38344,6283,292,Lima,Media,Alto,6,1,81474.27
+219,Salud,Pequeña,12798.57,Redes Sociales,34,46721,1309,692,Lima,Media,Bajo,3,0,0.0
+220,Tecnología,Pequeña,15270.21,Publicidad,19,40796,5828,181,Centro,Alta,Medio,7,0,0.0
+221,Otros,Mediana,3369.42,Branding,36,2180,6711,466,Oriente,Media,Alto,10,1,17236.66
+222,Gastronomía,Pequeña,9338.84,Branding,16,6189,5004,434,Lima,Baja,Medio,7,0,0.0
+223,Retail,Mediana,384.77,Consultoría,30,26223,7499,464,Lima,Media,Medio,6,0,0.0
+224,Retail,Pequeña,5084.24,Redes Sociales,7,7897,9737,681,Centro,Media,Medio,2,0,0.0
+225,Educación,Pequeña,14583.94,Redes Sociales,14,8446,8279,914,Lima,Baja,Bajo,8,1,51127.56
+226,Otros,Pequeña,19837.84,Consultoría,30,19978,2841,534,Oriente,Baja,Alto,1,1,47457.56
+227,Salud,Mediana,2163.73,Redes Sociales,29,33772,2731,66,Oriente,Alta,Bajo,1,0,0.0
+228,Gastronomía,Grande,8149.59,Diseño,19,17753,1542,21,Oriente,Media,Alto,6,1,31438.14
+229,Tecnología,Mediana,16041.41,SEO/SEM,11,49656,8439,612,Norte,Media,Medio,5,0,0.0
+230,Salud,Pequeña,4239.91,Diseño,16,42842,5263,384,Oriente,Media,Alto,9,1,19042.95
+231,Otros,Mediana,11190.68,Publicidad,29,26240,2006,812,Oriente,Media,Bajo,7,0,0.0
+232,Tecnología,Pequeña,14714.81,Branding,28,1284,5321,615,Norte,Baja,Medio,2,0,0.0
+233,Educación,Pequeña,12396.51,Publicidad,18,34593,287,559,Sur,Media,Medio,7,0,0.0
+234,Educación,Grande,3922.89,Branding,10,44248,3099,39,Lima,Baja,Medio,3,0,0.0
+235,Retail,Pequeña,7236.61,SEO/SEM,33,24946,533,285,Oriente,Alta,Medio,1,0,0.0
+236,Otros,Pequeña,15719.08,Redes Sociales,6,45925,4285,822,Lima,Media,Alto,8,1,57340.22
+237,Gastronomía,Pequeña,11173.68,Diseño,33,22295,5375,602,Centro,Media,Alto,3,1,40723.99
+238,Tecnología,Pequeña,303.55,Consultoría,19,5706,3132,597,Lima,Media,Bajo,8,0,0.0
+239,Salud,Pequeña,15267.62,Diseño,23,4056,8177,785,Norte,Media,Bajo,7,0,0.0
+240,Otros,Mediana,899.16,SEO/SEM,9,16655,5200,336,Lima,Baja,Alto,2,0,0.0
+241,Otros,Pequeña,14965.53,Publicidad,31,24949,4585,188,Lima,Media,Bajo,1,0,0.0
+242,Educación,Grande,4209.12,Consultoría,14,18790,7737,671,Lima,Baja,Alto,7,0,0.0
+243,Retail,Mediana,19169.85,Redes Sociales,36,48949,1807,243,Sur,Alta,Medio,1,0,0.0
+244,Retail,Pequeña,7485.23,SEO/SEM,19,26447,2141,73,Sur,Alta,Medio,6,0,0.0
+245,Tecnología,Pequeña,6673.25,Consultoría,2,33289,7332,479,Centro,Media,Bajo,10,1,19086.92
+246,Educación,Pequeña,3147.98,SEO/SEM,36,38408,6510,974,Norte,Alta,Medio,10,0,0.0
+247,Otros,Mediana,6250.96,SEO/SEM,7,25885,825,561,Lima,Media,Medio,8,1,25433.17
+248,Gastronomía,Pequeña,17557.69,Redes Sociales,22,49156,8644,101,Lima,Baja,Alto,7,1,76120.97
+249,Educación,Mediana,19927.42,Branding,10,32798,6676,514,Lima,Alta,Alto,4,1,100000.0
+250,Tecnología,Pequeña,7492.53,Consultoría,7,16066,152,756,Lima,Media,Bajo,1,0,0.0
+251,Tecnología,Mediana,9082.49,Redes Sociales,28,31197,1420,176,Sur,Media,Bajo,1,0,0.0
+252,Educación,Pequeña,14497.0,SEO/SEM,29,15982,544,238,Centro,Media,Bajo,4,0,0.0
+253,Tecnología,Pequeña,17746.68,Redes Sociales,9,4775,9918,910,Oriente,Media,Alto,5,1,80021.46
+254,Educación,Grande,11942.28,Branding,27,41950,3374,59,Norte,Alta,Medio,7,0,0.0
+255,Salud,Mediana,7952.21,Diseño,35,13109,1042,865,Lima,Baja,Bajo,4,0,0.0
+256,Educación,Pequeña,8369.91,Consultoría,12,27943,3352,99,Centro,Media,Medio,10,1,18742.38
+257,Educación,Grande,13973.24,Branding,31,29893,9612,954,Oriente,Media,Medio,1,0,0.0
+258,Tecnología,Pequeña,263.72,Publicidad,35,39616,6095,871,Centro,Media,Alto,10,1,3964.95
+259,Tecnología,Grande,12467.87,Consultoría,36,38971,4510,954,Sur,Media,Medio,7,0,0.0
+260,Retail,Mediana,7238.76,Branding,25,17957,1182,495,Oriente,Baja,Medio,2,0,0.0
+261,Retail,Pequeña,15925.11,SEO/SEM,21,19727,9090,947,Centro,Baja,Medio,2,0,0.0
+262,Salud,Pequeña,2041.21,Consultoría,3,18665,4527,980,Sur,Baja,Medio,8,0,0.0
+263,Retail,Pequeña,11846.4,Consultoría,30,26125,8017,514,Centro,Alta,Bajo,10,1,37511.0
+264,Educación,Mediana,9723.26,Redes Sociales,17,27932,1651,755,Centro,Baja,Bajo,10,1,32219.92
+265,Tecnología,Mediana,12918.05,SEO/SEM,23,44216,481,297,Oriente,Media,Medio,10,1,48647.17
+266,Retail,Pequeña,1484.1,Publicidad,22,9882,2950,211,Sur,Media,Bajo,5,0,0.0
+267,Retail,Pequeña,11683.68,Diseño,21,38750,8748,123,Lima,Alta,Medio,10,1,59322.29
+268,Salud,Mediana,11317.39,Branding,1,22466,4736,229,Norte,Alta,Medio,2,0,0.0
+269,Otros,Grande,11301.07,Redes Sociales,30,28657,7680,594,Oriente,Baja,Alto,5,1,40924.6
+270,Salud,Mediana,12149.06,Branding,10,5898,3733,656,Sur,Baja,Medio,8,1,46384.2
+271,Educación,Pequeña,13594.07,Publicidad,27,9727,373,388,Centro,Media,Medio,6,0,0.0
+272,Tecnología,Pequeña,16138.78,Publicidad,31,41283,3319,140,Sur,Baja,Medio,3,0,0.0
+273,Salud,Pequeña,5542.45,Consultoría,4,12566,555,541,Norte,Media,Medio,8,1,5864.74
+274,Retail,Grande,16535.98,Publicidad,9,42714,3250,391,Norte,Media,Bajo,9,1,58274.74
+275,Tecnología,Pequeña,10065.46,Branding,23,12820,6675,270,Lima,Alta,Alto,5,1,58494.71
+276,Tecnología,Mediana,1725.75,SEO/SEM,34,42013,1946,759,Lima,Baja,Bajo,2,0,0.0
+277,Retail,Pequeña,1359.31,SEO/SEM,22,37392,9164,12,Norte,Alta,Medio,2,0,0.0
+278,Salud,Mediana,6817.92,Consultoría,16,6659,892,867,Oriente,Baja,Alto,7,1,25513.77
+279,Retail,Mediana,15740.96,Diseño,0,40488,3850,389,Oriente,Media,Medio,1,0,0.0
+280,Otros,Mediana,14212.08,Branding,30,19258,6933,337,Centro,Media,Alto,10,1,49645.2
+281,Tecnología,Pequeña,15814.58,Branding,30,31016,9072,506,Lima,Media,Medio,2,0,0.0
+282,Gastronomía,Pequeña,10441.93,Publicidad,33,22157,4621,106,Centro,Media,Alto,10,1,31786.26
+283,Gastronomía,Pequeña,8915.94,Branding,8,35992,9067,32,Lima,Alta,Alto,4,1,39333.9
+284,Educación,Grande,3119.56,Redes Sociales,21,41539,5214,74,Norte,Alta,Alto,1,0,0.0
+285,Retail,Grande,6698.22,Diseño,12,11806,7298,171,Oriente,Alta,Alto,4,1,25416.24
+286,Retail,Mediana,8793.58,Publicidad,24,12170,3213,849,Oriente,Baja,Alto,10,1,25226.12
+287,Educación,Mediana,1954.29,Redes Sociales,17,41002,2254,69,Norte,Alta,Alto,5,0,0.0
+288,Educación,Mediana,4568.12,Consultoría,11,1024,28,813,Centro,Media,Medio,9,0,0.0
+289,Educación,Pequeña,12044.86,SEO/SEM,16,26578,651,362,Centro,Baja,Bajo,1,0,0.0
+290,Tecnología,Grande,14766.13,Consultoría,14,5606,3093,649,Sur,Baja,Medio,5,0,0.0
+291,Otros,Pequeña,19967.28,SEO/SEM,14,46518,5210,433,Lima,Baja,Alto,2,1,60470.02
+292,Retail,Pequeña,18675.64,Consultoría,14,35263,8531,929,Centro,Baja,Alto,9,1,51702.2
+293,Tecnología,Mediana,12922.79,Branding,12,24704,875,996,Norte,Media,Alto,6,1,63349.13
+294,Educación,Pequeña,8540.71,Redes Sociales,16,15410,783,100,Centro,Alta,Alto,2,1,25669.23
+295,Retail,Pequeña,12796.31,SEO/SEM,31,8326,4742,658,Oriente,Media,Bajo,3,0,0.0
+296,Tecnología,Mediana,15755.9,Publicidad,8,11881,3528,9,Lima,Media,Medio,8,1,37971.68
+297,Otros,Pequeña,2543.06,Redes Sociales,19,5615,6805,574,Sur,Alta,Medio,1,0,0.0
+298,Tecnología,Mediana,8316.12,Publicidad,25,36233,6994,697,Lima,Baja,Bajo,3,0,0.0
+299,Otros,Pequeña,16828.09,Redes Sociales,26,17072,2577,29,Oriente,Alta,Medio,10,1,68892.23
+300,Educación,Pequeña,7799.89,Redes Sociales,20,32192,1684,893,Oriente,Media,Alto,1,1,27525.15
+301,Otros,Pequeña,11523.07,Consultoría,17,11510,749,114,Oriente,Media,Alto,8,1,35721.01
+302,Retail,Pequeña,11837.83,SEO/SEM,12,19622,1555,462,Oriente,Media,Medio,1,0,0.0
+303,Educación,Mediana,3852.63,SEO/SEM,15,9195,9337,921,Norte,Media,Bajo,5,0,0.0
+304,Retail,Pequeña,7372.26,Redes Sociales,8,23147,5137,143,Sur,Baja,Medio,4,0,0.0
+305,Gastronomía,Mediana,6823.32,Branding,11,20570,6957,390,Oriente,Media,Medio,7,0,0.0
+306,Salud,Pequeña,718.69,Branding,18,43229,6630,632,Oriente,Baja,Medio,5,0,0.0
+307,Otros,Mediana,679.0,Publicidad,6,8631,9075,682,Centro,Alta,Bajo,8,0,0.0
+308,Salud,Grande,16667.6,Publicidad,34,37138,4565,157,Sur,Media,Medio,1,0,0.0
+309,Salud,Mediana,5606.8,Consultoría,17,22503,5655,335,Lima,Baja,Medio,5,0,0.0
+310,Otros,Pequeña,10457.96,Redes Sociales,15,42774,8953,861,Sur,Media,Alto,4,1,40892.03
+311,Educación,Pequeña,6114.77,Publicidad,3,29222,7134,260,Sur,Baja,Bajo,3,0,0.0
+312,Gastronomía,Pequeña,18825.45,Publicidad,24,17040,9055,82,Sur,Media,Bajo,5,0,0.0
+313,Retail,Mediana,5334.08,Diseño,31,29931,3742,754,Oriente,Alta,Bajo,10,1,19971.26
+314,Tecnología,Pequeña,8707.2,Redes Sociales,12,11379,2293,441,Oriente,Media,Medio,3,0,0.0
+315,Retail,Pequeña,17480.06,Consultoría,16,38320,9531,945,Norte,Baja,Medio,8,1,74945.72
+316,Tecnología,Mediana,16870.28,Publicidad,36,6577,8679,172,Lima,Media,Alto,3,1,37664.22
+317,Retail,Pequeña,3884.81,Consultoría,5,17500,7008,231,Centro,Media,Medio,1,0,0.0
+318,Otros,Mediana,16092.34,SEO/SEM,18,6570,5423,720,Sur,Alta,Medio,9,1,28562.27
+319,Gastronomía,Pequeña,9272.1,Consultoría,12,2162,1279,75,Lima,Baja,Medio,9,1,39494.5
+320,Tecnología,Pequeña,9762.78,Branding,25,41898,7878,270,Lima,Media,Medio,6,0,0.0
+321,Educación,Mediana,2842.9,Branding,13,19980,2613,899,Norte,Media,Bajo,10,0,0.0
+322,Retail,Pequeña,1795.91,Consultoría,30,34681,5971,626,Centro,Baja,Medio,1,0,0.0
+323,Retail,Mediana,14613.2,Branding,3,44539,9671,62,Sur,Media,Alto,8,1,38272.22
+324,Tecnología,Pequeña,10029.93,SEO/SEM,7,14408,8579,874,Centro,Media,Alto,2,1,40599.27
+325,Educación,Pequeña,8849.64,Redes Sociales,24,26127,7567,320,Norte,Alta,Alto,9,1,30786.22
+326,Educación,Mediana,14644.26,Branding,12,30820,1690,102,Oriente,Alta,Medio,8,1,58054.31
+327,Otros,Mediana,15357.16,Branding,31,35181,8443,429,Lima,Media,Medio,3,0,0.0
+328,Otros,Mediana,3346.38,Consultoría,27,9806,9121,874,Sur,Media,Alto,5,0,0.0
+329,Otros,Pequeña,12282.46,SEO/SEM,29,9937,5692,722,Oriente,Baja,Bajo,9,1,57637.0
+330,Otros,Mediana,2880.01,Redes Sociales,2,38699,8094,954,Norte,Alta,Bajo,1,0,0.0
+331,Otros,Pequeña,15077.23,Consultoría,27,36924,5377,255,Centro,Alta,Bajo,9,1,30722.1
+332,Otros,Pequeña,13207.71,Consultoría,2,33173,79,532,Lima,Alta,Medio,4,0,0.0
+333,Gastronomía,Grande,19140.97,Diseño,33,47215,3934,570,Sur,Media,Medio,4,0,0.0
+334,Educación,Pequeña,1565.37,SEO/SEM,15,32188,6210,112,Oriente,Media,Medio,4,0,0.0
+335,Otros,Grande,1329.68,Redes Sociales,21,28212,2017,985,Oriente,Alta,Medio,10,0,0.0
+336,Educación,Pequeña,5787.3,SEO/SEM,31,26399,9002,313,Lima,Media,Alto,9,1,13943.28
+337,Educación,Pequeña,5381.77,Redes Sociales,7,34557,8129,998,Centro,Media,Bajo,6,0,0.0
+338,Salud,Mediana,5090.18,SEO/SEM,7,30163,2789,461,Norte,Media,Medio,8,1,23321.86
+339,Gastronomía,Grande,18143.84,Consultoría,5,4017,4930,708,Centro,Baja,Medio,4,0,0.0
+340,Otros,Mediana,5141.01,Consultoría,13,3036,765,887,Centro,Baja,Medio,3,0,0.0
+341,Retail,Mediana,5584.6,Publicidad,31,36730,6505,462,Centro,Media,Medio,1,0,0.0
+342,Tecnología,Mediana,15236.09,Branding,34,14606,5945,865,Lima,Media,Alto,10,1,47555.23
+343,Retail,Mediana,9104.85,Diseño,9,28905,9523,92,Lima,Alta,Bajo,7,0,0.0
+344,Gastronomía,Mediana,15578.87,SEO/SEM,2,14418,2340,52,Norte,Baja,Alto,4,1,71976.79
+345,Tecnología,Pequeña,1494.25,Diseño,11,48168,5715,805,Centro,Baja,Medio,8,0,0.0
+346,Gastronomía,Pequeña,9853.91,Publicidad,30,26126,8311,520,Lima,Baja,Bajo,3,0,0.0
+347,Educación,Pequeña,865.55,Branding,28,27772,1026,812,Norte,Baja,Alto,1,0,0.0
+348,Tecnología,Grande,1440.53,SEO/SEM,4,38517,7357,98,Norte,Baja,Medio,5,0,0.0
+349,Educación,Grande,18147.46,Redes Sociales,24,27381,8226,236,Centro,Media,Bajo,2,0,0.0
+350,Retail,Pequeña,2957.06,Branding,30,48542,4948,901,Sur,Media,Bajo,3,0,0.0
+351,Retail,Mediana,10741.93,Consultoría,20,28191,2848,374,Centro,Media,Bajo,6,0,0.0
+352,Tecnología,Grande,8339.69,Publicidad,19,38428,747,581,Sur,Alta,Medio,3,0,0.0
+353,Tecnología,Pequeña,7077.4,Branding,21,48319,6210,927,Norte,Media,Bajo,3,0,0.0
+354,Otros,Mediana,18016.7,Branding,3,18710,8381,557,Lima,Baja,Medio,6,0,0.0
+355,Gastronomía,Grande,632.1,Consultoría,12,1179,241,649,Oriente,Baja,Bajo,5,0,0.0
+356,Otros,Pequeña,13343.04,SEO/SEM,19,29950,1927,234,Norte,Alta,Alto,10,1,60499.25
+357,Gastronomía,Mediana,19275.21,Redes Sociales,12,46851,8544,32,Lima,Media,Alto,9,1,77530.35
+358,Otros,Pequeña,11291.33,Consultoría,16,20690,5928,289,Norte,Alta,Alto,1,1,21907.28
+359,Educación,Grande,18749.08,Redes Sociales,35,31051,2633,638,Centro,Alta,Bajo,3,0,0.0
+360,Tecnología,Grande,1234.71,SEO/SEM,32,15427,8656,579,Sur,Alta,Alto,3,0,0.0
+361,Retail,Grande,8492.11,Branding,0,12855,6411,542,Norte,Alta,Medio,6,0,0.0
+362,Gastronomía,Pequeña,5351.12,Redes Sociales,14,7335,7082,114,Lima,Media,Alto,8,1,21180.14
+363,Gastronomía,Grande,14670.26,Publicidad,12,17297,2286,204,Centro,Media,Medio,3,0,0.0
+364,Retail,Mediana,19629.68,Publicidad,16,21573,7403,29,Oriente,Alta,Medio,3,0,0.0
+365,Otros,Pequeña,5279.3,Consultoría,23,2131,8797,643,Centro,Media,Alto,6,1,33726.96
+366,Gastronomía,Mediana,13152.66,SEO/SEM,7,41382,3884,474,Sur,Baja,Bajo,8,1,32505.3
+367,Educación,Pequeña,4122.33,Consultoría,26,41963,4540,697,Centro,Media,Medio,6,0,0.0
+368,Tecnología,Mediana,11393.54,Consultoría,22,14387,7174,253,Oriente,Media,Alto,10,1,41464.06
+369,Retail,Pequeña,9385.86,Diseño,7,38779,4507,798,Lima,Alta,Alto,3,1,34737.31
+370,Tecnología,Pequeña,19445.71,Consultoría,7,44563,7943,905,Norte,Media,Alto,4,1,92277.97
+371,Gastronomía,Pequeña,12248.84,Diseño,25,32330,2145,922,Sur,Media,Medio,1,0,0.0
+372,Gastronomía,Mediana,7120.23,Publicidad,12,19137,6737,386,Oriente,Alta,Medio,8,1,33060.42
+373,Retail,Pequeña,2459.1,Publicidad,36,27152,1575,62,Sur,Alta,Bajo,4,0,0.0
+374,Educación,Mediana,3194.69,Consultoría,27,3440,318,515,Centro,Media,Medio,6,0,0.0
+375,Salud,Pequeña,4661.28,Publicidad,24,40744,8544,430,Sur,Baja,Medio,3,0,0.0
+376,Retail,Pequeña,5169.14,SEO/SEM,15,48764,8637,580,Oriente,Media,Medio,6,0,0.0
+377,Salud,Mediana,17042.2,Diseño,1,45303,8378,537,Norte,Media,Bajo,9,1,80521.68
+378,Otros,Mediana,11312.21,Diseño,17,1241,148,691,Norte,Baja,Medio,9,1,38533.65
+379,Salud,Pequeña,10563.14,Consultoría,16,25525,203,141,Sur,Baja,Alto,10,1,33341.39
+380,Educación,Mediana,2472.42,Publicidad,29,19381,3267,743,Lima,Media,Alto,3,0,0.0
+381,Otros,Grande,17230.77,Redes Sociales,12,42149,3245,300,Sur,Media,Alto,3,1,83991.8
+382,Salud,Mediana,14511.72,Diseño,31,20525,952,675,Centro,Media,Alto,4,1,36460.62
+383,Otros,Pequeña,1539.83,Consultoría,28,34906,4630,311,Norte,Baja,Medio,7,0,0.0
+384,Salud,Pequeña,14215.13,Consultoría,29,32213,5730,471,Norte,Media,Alto,3,1,56614.35
+385,Educación,Grande,10962.06,SEO/SEM,17,4370,6363,393,Norte,Media,Medio,10,1,35783.23
+386,Salud,Pequeña,1818.16,Branding,12,42914,4967,642,Lima,Baja,Alto,8,1,3266.08
+387,Salud,Grande,9274.35,Branding,20,4783,9155,445,Lima,Baja,Alto,8,1,14869.29
+388,Salud,Mediana,9796.99,Diseño,29,49746,9504,758,Oriente,Media,Alto,6,1,35175.76
+389,Retail,Grande,3482.34,SEO/SEM,20,39984,3391,809,Sur,Alta,Medio,4,0,0.0
+390,Retail,Mediana,18924.82,SEO/SEM,16,29909,5849,172,Sur,Media,Bajo,5,0,0.0
+391,Retail,Grande,17029.51,SEO/SEM,18,34652,2890,576,Centro,Baja,Bajo,2,0,0.0
+392,Educación,Pequeña,13446.64,Diseño,14,3886,4897,31,Norte,Media,Bajo,6,0,0.0
+393,Otros,Mediana,9353.45,Branding,8,21750,555,47,Lima,Alta,Bajo,3,0,0.0
+394,Gastronomía,Pequeña,8352.96,SEO/SEM,9,28806,1937,130,Centro,Baja,Bajo,6,0,0.0
+395,Salud,Pequeña,13089.27,Publicidad,30,9290,4162,352,Centro,Media,Medio,5,0,0.0
+396,Salud,Mediana,10999.55,Consultoría,22,38296,14,978,Lima,Media,Medio,2,0,0.0
+397,Educación,Grande,1433.01,Consultoría,29,39549,5543,845,Sur,Baja,Alto,5,0,0.0
+398,Salud,Grande,10347.55,Redes Sociales,32,39761,9564,622,Norte,Alta,Medio,5,0,0.0
+399,Retail,Mediana,16166.79,Redes Sociales,8,29809,5388,581,Sur,Media,Medio,9,1,48080.72
+400,Gastronomía,Pequeña,9292.95,Diseño,0,45529,6243,58,Centro,Media,Alto,8,1,24213.92
+401,Tecnología,Pequeña,1228.74,Diseño,34,14992,2673,106,Norte,Baja,Medio,7,0,0.0
+402,Salud,Mediana,15768.31,Consultoría,10,9743,9475,812,Oriente,Baja,Alto,3,1,55974.65
+403,Retail,Pequeña,4187.0,Publicidad,33,10043,3336,330,Centro,Media,Bajo,10,0,0.0
+404,Tecnología,Pequeña,5320.69,Branding,15,43340,3669,768,Sur,Media,Bajo,4,0,0.0
+405,Gastronomía,Pequeña,3461.19,Branding,8,45860,1141,824,Sur,Baja,Medio,6,0,0.0
+406,Tecnología,Pequeña,6738.26,Diseño,31,21142,4773,683,Sur,Baja,Bajo,3,0,0.0
+407,Retail,Pequeña,15183.68,Publicidad,14,43994,6747,383,Lima,Baja,Medio,9,1,56169.38
+408,Otros,Pequeña,10483.84,Diseño,11,6969,5102,985,Centro,Alta,Medio,8,1,33352.26
+409,Otros,Pequeña,4256.65,Branding,32,40537,6032,162,Norte,Media,Medio,6,0,0.0
+410,Tecnología,Pequeña,17581.04,Diseño,13,44406,3169,997,Sur,Alta,Bajo,4,0,0.0
+411,Educación,Grande,17615.72,SEO/SEM,7,42933,6169,286,Sur,Baja,Medio,7,0,0.0
+412,Tecnología,Pequeña,17437.45,Diseño,7,21018,7328,71,Lima,Alta,Medio,3,0,0.0
+413,Salud,Pequeña,4928.16,Consultoría,26,28479,8455,767,Norte,Baja,Medio,10,0,0.0
+414,Salud,Mediana,9134.54,Diseño,11,43039,5317,454,Centro,Media,Bajo,8,1,20231.86
+415,Otros,Pequeña,19702.8,Consultoría,0,25374,8530,886,Oriente,Alta,Bajo,1,0,0.0
+416,Educación,Grande,15485.85,Publicidad,10,17796,3054,567,Lima,Media,Bajo,3,0,0.0
+417,Retail,Mediana,737.91,Branding,30,3062,9622,835,Centro,Media,Bajo,5,0,0.0
+418,Salud,Pequeña,1491.05,Redes Sociales,16,13951,5646,397,Oriente,Baja,Alto,5,0,0.0
+419,Otros,Pequeña,9385.84,Redes Sociales,32,45847,2902,515,Sur,Baja,Bajo,10,1,39506.4
+420,Gastronomía,Grande,18202.56,Branding,31,5396,5298,26,Sur,Media,Alto,2,1,68868.29
+421,Otros,Grande,10866.3,Redes Sociales,28,14845,5822,313,Norte,Media,Alto,10,1,33004.81
+422,Salud,Pequeña,10056.69,Diseño,20,5830,664,126,Oriente,Media,Bajo,8,1,43759.12
+423,Salud,Mediana,2288.38,Publicidad,20,14021,5491,408,Sur,Media,Medio,5,0,0.0
+424,Otros,Pequeña,13204.25,Publicidad,22,32994,769,565,Sur,Media,Alto,7,1,61398.15
+425,Retail,Grande,16477.64,Branding,5,5702,6792,198,Norte,Baja,Alto,7,1,40591.44
+426,Tecnología,Pequeña,7732.32,Redes Sociales,21,17675,1808,811,Centro,Baja,Medio,5,0,0.0
+427,Salud,Grande,15557.11,Diseño,36,19123,5169,188,Sur,Alta,Alto,8,1,72320.38
+428,Otros,Mediana,19296.64,Publicidad,7,45449,8456,698,Lima,Baja,Alto,9,1,38431.44
+429,Otros,Mediana,4234.58,Publicidad,34,16097,5272,817,Lima,Media,Medio,4,0,0.0
+430,Educación,Mediana,10561.93,SEO/SEM,10,17850,3833,810,Centro,Baja,Alto,4,1,34750.86
+431,Tecnología,Pequeña,5885.33,SEO/SEM,23,42079,1886,716,Oriente,Media,Medio,8,1,12179.24
+432,Gastronomía,Pequeña,15898.52,Publicidad,20,22937,6164,484,Norte,Media,Medio,1,0,0.0
+433,Retail,Pequeña,11636.35,Branding,1,15097,7797,450,Lima,Baja,Alto,4,1,38446.02
+434,Gastronomía,Pequeña,12764.73,Consultoría,18,39539,4526,523,Lima,Baja,Alto,6,1,44159.75
+435,Tecnología,Mediana,15998.7,Consultoría,27,23167,3744,871,Centro,Media,Medio,4,0,0.0
+436,Tecnología,Pequeña,8040.22,Diseño,16,45139,9446,354,Oriente,Media,Bajo,6,0,0.0
+437,Tecnología,Pequeña,18318.78,Publicidad,5,21023,5982,986,Oriente,Baja,Medio,5,0,0.0
+438,Gastronomía,Grande,10753.97,Publicidad,18,8976,6649,658,Centro,Media,Alto,9,1,45902.92
+439,Tecnología,Grande,3327.51,Publicidad,27,2987,5366,597,Lima,Baja,Medio,10,0,0.0
+440,Otros,Grande,13978.8,Branding,1,42522,6390,100,Norte,Alta,Alto,9,1,41794.42
+441,Gastronomía,Grande,15906.57,SEO/SEM,36,36954,1018,616,Lima,Media,Alto,4,1,42386.12
+442,Tecnología,Pequeña,6471.88,Publicidad,3,37048,4324,948,Oriente,Baja,Medio,4,0,0.0
+443,Otros,Pequeña,17172.15,Publicidad,21,2941,9712,558,Lima,Media,Bajo,8,1,79445.89
+444,Educación,Mediana,18141.64,Redes Sociales,25,28856,2518,556,Norte,Media,Medio,10,1,85328.96
+445,Tecnología,Mediana,5682.71,Branding,35,6140,4768,278,Sur,Baja,Medio,4,0,0.0
+446,Gastronomía,Pequeña,19673.73,Diseño,12,10404,2692,693,Lima,Media,Medio,2,0,0.0
+447,Salud,Mediana,2986.09,Publicidad,31,30441,7321,699,Centro,Baja,Medio,2,0,0.0
+448,Tecnología,Pequeña,4199.91,Redes Sociales,16,4858,999,990,Sur,Baja,Medio,1,0,0.0
+449,Salud,Pequeña,3847.65,Consultoría,35,17110,8456,626,Centro,Baja,Medio,5,0,0.0
+450,Otros,Mediana,17901.0,Diseño,18,31758,4721,491,Centro,Media,Medio,6,0,0.0
+451,Educación,Mediana,13154.99,Publicidad,34,49102,6489,255,Centro,Baja,Medio,9,1,45988.97
+452,Retail,Mediana,3211.66,Publicidad,27,37882,6974,381,Lima,Media,Bajo,5,0,0.0
+453,Educación,Pequeña,8918.4,Redes Sociales,0,1475,8085,892,Oriente,Media,Medio,6,0,0.0
+454,Tecnología,Grande,12382.9,Branding,17,34049,4462,542,Sur,Media,Medio,6,0,0.0
+455,Salud,Pequeña,1852.59,Publicidad,32,22192,8457,264,Norte,Media,Medio,3,0,0.0
+456,Salud,Pequeña,17671.84,Consultoría,11,590,1017,610,Oriente,Alta,Bajo,4,0,0.0
+457,Gastronomía,Grande,16111.35,Publicidad,7,3829,6506,825,Lima,Media,Alto,1,1,36708.41
+458,Salud,Grande,10203.09,Consultoría,23,6074,9957,879,Centro,Media,Medio,4,0,0.0
+459,Gastronomía,Grande,19349.11,Diseño,15,19780,7698,329,Norte,Baja,Medio,1,0,0.0
+460,Otros,Mediana,8471.67,Diseño,3,18424,3918,115,Sur,Alta,Alto,5,1,12350.13
+461,Retail,Mediana,19685.38,SEO/SEM,26,31434,2813,276,Oriente,Baja,Medio,8,1,67472.83
+462,Tecnología,Mediana,13424.82,SEO/SEM,8,21498,4389,488,Oriente,Media,Medio,8,1,37604.09
+463,Gastronomía,Pequeña,12766.49,Consultoría,15,34750,108,281,Norte,Media,Alto,5,1,37313.92
+464,Retail,Pequeña,3485.91,Branding,11,21392,8398,275,Lima,Baja,Alto,10,1,14659.7
+465,Salud,Pequeña,17662.17,Publicidad,30,35855,887,773,Sur,Baja,Alto,2,1,54509.69
+466,Salud,Pequeña,8664.3,Publicidad,23,38453,1878,843,Norte,Media,Alto,6,1,34964.8
+467,Retail,Mediana,3412.22,SEO/SEM,13,3259,2675,719,Centro,Media,Bajo,1,0,0.0
+468,Salud,Pequeña,449.63,Consultoría,24,32726,1398,896,Sur,Media,Bajo,7,0,0.0
+469,Otros,Pequeña,11283.16,Publicidad,33,29451,2425,328,Oriente,Alta,Medio,4,0,0.0
+470,Otros,Pequeña,10642.51,Publicidad,2,37398,8771,211,Norte,Baja,Medio,5,0,0.0
+471,Retail,Mediana,14443.2,Branding,23,17165,2647,727,Oriente,Baja,Medio,6,0,0.0
+472,Gastronomía,Pequeña,17827.11,Redes Sociales,8,21738,7252,923,Oriente,Media,Alto,1,1,62535.63
+473,Gastronomía,Grande,1772.25,SEO/SEM,25,1173,9267,552,Oriente,Media,Medio,9,0,0.0
+474,Retail,Pequeña,14683.63,SEO/SEM,19,46611,8623,992,Lima,Media,Medio,10,1,48946.54
+475,Gastronomía,Pequeña,3910.76,Redes Sociales,9,18871,2893,26,Oriente,Baja,Alto,4,0,0.0
+476,Gastronomía,Mediana,17191.91,Publicidad,18,35561,1214,27,Centro,Media,Alto,8,1,34784.91
+477,Otros,Mediana,16417.46,Branding,2,42430,554,702,Centro,Media,Medio,5,0,0.0
+478,Gastronomía,Pequeña,10907.72,Branding,23,29420,1233,83,Sur,Media,Alto,8,1,27968.93
+479,Educación,Mediana,14262.81,SEO/SEM,4,4440,3182,896,Oriente,Media,Alto,1,1,74831.21
+480,Tecnología,Mediana,6424.13,Branding,2,35024,8969,946,Oriente,Media,Medio,8,1,24002.32
+481,Salud,Pequeña,9529.12,Diseño,26,16284,6460,682,Norte,Media,Bajo,4,0,0.0
+482,Educación,Grande,16468.41,Redes Sociales,15,40834,6530,413,Lima,Baja,Bajo,2,0,0.0
+483,Gastronomía,Mediana,9293.45,Publicidad,14,2680,664,167,Sur,Baja,Medio,6,0,0.0
+484,Otros,Mediana,7284.41,Diseño,34,40125,6831,700,Oriente,Media,Medio,2,0,0.0
+485,Retail,Grande,9985.41,Redes Sociales,11,29067,2456,169,Norte,Media,Alto,5,1,22410.97
+486,Gastronomía,Grande,16599.34,Consultoría,25,2259,5902,801,Lima,Media,Alto,2,1,53548.83
+487,Otros,Mediana,6837.12,SEO/SEM,33,49040,8422,979,Sur,Media,Alto,3,1,17230.75
+488,Tecnología,Mediana,3640.48,Branding,22,14000,3676,229,Sur,Media,Alto,6,0,0.0
+489,Gastronomía,Mediana,14297.88,Consultoría,30,11540,4287,979,Oriente,Alta,Alto,1,1,38626.29
+490,Retail,Mediana,16554.37,Branding,19,14778,4412,609,Sur,Baja,Medio,6,0,0.0
+491,Otros,Mediana,2192.62,Diseño,11,47304,2579,367,Norte,Baja,Bajo,3,0,0.0
+492,Otros,Mediana,4949.51,Publicidad,22,12121,5525,528,Sur,Baja,Alto,7,0,0.0
+493,Otros,Pequeña,3011.05,Publicidad,3,6872,9215,791,Centro,Media,Medio,2,0,0.0
+494,Tecnología,Grande,7089.24,Publicidad,22,1727,3995,647,Norte,Media,Medio,6,0,0.0
+495,Gastronomía,Grande,9116.95,Branding,0,44532,8177,538,Lima,Baja,Medio,8,1,20684.14
+496,Tecnología,Pequeña,15026.76,Consultoría,24,8319,7458,864,Lima,Media,Alto,1,1,37309.53
+497,Salud,Mediana,13092.72,Publicidad,1,23564,4320,524,Oriente,Baja,Medio,9,1,37051.76
+498,Salud,Pequeña,12494.39,Consultoría,29,30332,3029,72,Oriente,Media,Alto,5,1,29317.11
+499,Gastronomía,Pequeña,7177.02,Branding,2,42581,3691,645,Centro,Media,Medio,5,0,0.0
+500,Tecnología,Mediana,16860.66,Diseño,20,8588,9645,106,Lima,Media,Medio,5,0,0.0
+501,Retail,Pequeña,9531.49,Consultoría,24,35049,4206,732,Lima,Baja,Bajo,6,0,0.0
+502,Otros,Mediana,19586.28,Diseño,19,44462,582,885,Lima,Alta,Alto,2,1,60376.16
+503,Otros,Mediana,12756.01,Branding,21,40032,9534,965,Lima,Media,Bajo,6,0,0.0
+504,Gastronomía,Mediana,2700.04,Branding,20,19081,4763,689,Sur,Baja,Alto,4,0,0.0
+505,Salud,Pequeña,13588.32,SEO/SEM,32,1001,7092,282,Norte,Baja,Bajo,8,1,60239.43
+506,Salud,Pequeña,6637.06,Branding,14,22544,4012,133,Norte,Media,Medio,9,1,27574.16
+507,Otros,Mediana,13789.28,Branding,14,42158,5639,534,Centro,Alta,Medio,9,1,43293.84
+508,Gastronomía,Grande,1578.89,Redes Sociales,24,18161,8427,975,Sur,Alta,Medio,8,0,0.0
+509,Tecnología,Mediana,3662.65,Publicidad,20,2981,4210,269,Lima,Media,Bajo,3,0,0.0
+510,Salud,Pequeña,17143.6,SEO/SEM,23,29963,2007,412,Lima,Alta,Medio,10,1,88089.41
+511,Tecnología,Mediana,4698.16,SEO/SEM,4,45926,8973,673,Oriente,Baja,Alto,4,0,0.0
+512,Salud,Mediana,16773.41,SEO/SEM,5,5722,7432,619,Oriente,Baja,Medio,1,0,0.0
+513,Salud,Mediana,5729.67,Redes Sociales,22,1478,4534,791,Centro,Alta,Bajo,9,1,30650.66
+514,Educación,Pequeña,12929.06,Diseño,3,17732,8635,865,Lima,Media,Alto,5,1,50343.89
+515,Salud,Mediana,13944.18,Branding,26,28411,3417,747,Centro,Media,Bajo,6,0,0.0
+516,Retail,Mediana,10350.56,Publicidad,17,5750,6741,18,Sur,Media,Medio,3,0,0.0
+517,Gastronomía,Grande,6245.15,Consultoría,20,45301,7805,754,Norte,Alta,Medio,10,1,25336.22
+518,Gastronomía,Pequeña,4410.36,Diseño,27,42324,9067,117,Lima,Media,Medio,8,0,0.0
+519,Tecnología,Mediana,857.15,Branding,34,7136,2803,798,Sur,Alta,Medio,7,0,0.0
+520,Salud,Grande,6218.14,Redes Sociales,21,39355,7344,794,Lima,Media,Alto,1,1,29283.8
+521,Retail,Pequeña,13132.62,Branding,22,22599,2921,144,Oriente,Baja,Medio,10,1,42383.29
+522,Tecnología,Grande,18778.44,Branding,2,37116,7962,717,Centro,Alta,Medio,5,0,0.0
+523,Educación,Mediana,17449.85,Redes Sociales,9,4703,2425,551,Oriente,Baja,Medio,10,1,66686.21
+524,Tecnología,Pequeña,15368.08,SEO/SEM,24,27873,260,929,Norte,Alta,Alto,9,1,36786.75
+525,Tecnología,Pequeña,15811.26,SEO/SEM,7,20037,4961,666,Oriente,Media,Medio,6,0,0.0
+526,Salud,Mediana,13366.7,Publicidad,10,12732,8108,688,Lima,Media,Alto,8,1,63492.35
+527,Educación,Pequeña,5353.68,Publicidad,4,30707,5299,961,Oriente,Media,Alto,10,1,22985.91
+528,Tecnología,Mediana,18162.46,SEO/SEM,36,26437,8112,753,Lima,Baja,Alto,1,1,65903.92
+529,Retail,Pequeña,13480.5,Diseño,28,320,7267,422,Norte,Baja,Alto,10,1,51275.85
+530,Retail,Mediana,11296.72,Consultoría,4,47094,5575,898,Oriente,Alta,Bajo,7,0,0.0
+531,Gastronomía,Pequeña,2397.59,Branding,8,4918,6447,369,Centro,Alta,Alto,3,0,0.0
+532,Educación,Grande,9051.7,Consultoría,1,7449,9120,646,Centro,Media,Medio,9,1,37330.47
+533,Educación,Grande,9315.09,Branding,0,5718,1183,558,Centro,Alta,Alto,6,1,36585.38
+534,Gastronomía,Grande,17318.36,SEO/SEM,29,27564,8634,50,Oriente,Alta,Medio,5,0,0.0
+535,Tecnología,Mediana,11023.63,Publicidad,10,42724,845,678,Oriente,Media,Alto,8,1,52886.73
+536,Educación,Pequeña,7731.93,Diseño,27,37444,2272,106,Oriente,Baja,Medio,8,1,21930.5
+537,Retail,Mediana,19540.65,Publicidad,11,18355,9099,216,Lima,Alta,Medio,3,0,0.0
+538,Retail,Pequeña,2392.27,Consultoría,25,24399,4577,658,Norte,Media,Alto,2,0,0.0
+539,Salud,Pequeña,8566.46,Publicidad,12,48075,3825,923,Centro,Alta,Bajo,2,0,0.0
+540,Educación,Pequeña,1032.09,SEO/SEM,7,1562,256,425,Lima,Alta,Medio,5,0,0.0
+541,Tecnología,Pequeña,14850.1,Diseño,27,16005,2439,72,Centro,Alta,Medio,10,1,23581.8
+542,Gastronomía,Mediana,18377.92,Consultoría,29,25020,9192,988,Lima,Media,Alto,7,1,60554.38
+543,Gastronomía,Mediana,5744.74,Diseño,8,16352,9128,842,Oriente,Baja,Bajo,8,1,17677.76
+544,Tecnología,Pequeña,17195.17,Branding,30,41104,5297,785,Centro,Media,Bajo,10,1,49976.77
+545,Otros,Pequeña,5985.92,Publicidad,20,40681,2617,759,Oriente,Media,Bajo,8,1,24439.49
+546,Salud,Grande,18233.25,Diseño,33,34936,9276,446,Centro,Baja,Bajo,8,1,89560.38
+547,Gastronomía,Pequeña,15128.45,Redes Sociales,30,5853,5940,925,Sur,Media,Alto,10,1,67385.92
+548,Educación,Pequeña,16137.15,Publicidad,24,40105,4032,186,Lima,Media,Alto,3,1,46573.6
+549,Salud,Pequeña,556.53,Branding,11,14275,4794,70,Sur,Alta,Medio,2,0,0.0
+550,Educación,Mediana,19263.65,Diseño,0,6291,6627,974,Lima,Baja,Medio,4,0,0.0
+551,Retail,Mediana,14588.09,Consultoría,21,17998,3161,150,Norte,Media,Alto,1,1,65645.37
+552,Salud,Pequeña,6234.07,Branding,36,19082,5590,246,Centro,Baja,Bajo,3,0,0.0
+553,Gastronomía,Pequeña,16622.01,Redes Sociales,0,14722,7064,774,Norte,Baja,Medio,9,1,43813.04
+554,Salud,Mediana,5774.12,Diseño,0,1101,7716,538,Norte,Baja,Medio,7,0,0.0
+555,Salud,Mediana,17480.53,SEO/SEM,20,47745,7629,935,Lima,Media,Bajo,7,0,0.0
+556,Salud,Pequeña,2429.09,Publicidad,14,43100,4583,652,Sur,Baja,Medio,1,0,0.0
+557,Otros,Grande,14132.98,Consultoría,16,23383,3501,99,Oriente,Media,Medio,7,0,0.0
+558,Salud,Pequeña,10905.83,SEO/SEM,21,21535,716,910,Lima,Baja,Bajo,10,1,40958.16
+559,Educación,Pequeña,2111.38,Diseño,34,27323,7007,278,Oriente,Alta,Bajo,7,0,0.0
+560,Retail,Grande,4989.5,Diseño,15,37344,5243,563,Norte,Alta,Alto,4,0,0.0
+561,Tecnología,Pequeña,445.6,Branding,7,30124,8955,663,Oriente,Alta,Bajo,7,0,0.0
+562,Salud,Mediana,9481.61,Diseño,16,49730,5765,944,Sur,Alta,Alto,8,1,45932.6
+563,Gastronomía,Pequeña,6165.05,Consultoría,16,30834,6970,455,Lima,Alta,Bajo,3,0,0.0
+564,Salud,Pequeña,12047.48,SEO/SEM,25,615,8789,104,Sur,Alta,Alto,10,1,26514.8
+565,Gastronomía,Grande,6085.31,Consultoría,12,45346,1344,946,Sur,Media,Alto,2,1,24535.89
+566,Educación,Pequeña,6138.4,Redes Sociales,16,1291,5598,601,Lima,Baja,Alto,7,1,27155.43
+567,Gastronomía,Grande,14915.23,Redes Sociales,16,32364,1857,653,Sur,Baja,Alto,5,1,56666.73
+568,Tecnología,Pequeña,1153.23,Publicidad,13,43728,6861,725,Centro,Baja,Medio,5,0,0.0
+569,Retail,Pequeña,18077.32,Publicidad,5,46316,7221,233,Centro,Media,Medio,5,0,0.0
+570,Gastronomía,Pequeña,17074.82,Redes Sociales,34,6397,7875,394,Centro,Media,Medio,7,0,0.0
+571,Gastronomía,Mediana,13422.53,Diseño,13,27956,3327,501,Oriente,Alta,Bajo,9,1,25637.92
+572,Retail,Pequeña,11945.79,Consultoría,7,49523,6821,695,Sur,Alta,Bajo,8,1,46062.71
+573,Tecnología,Grande,17867.59,Redes Sociales,14,8434,174,251,Lima,Media,Alto,6,1,86772.99
+574,Salud,Pequeña,3869.54,Publicidad,26,24262,7070,521,Lima,Media,Medio,7,0,0.0
+575,Gastronomía,Grande,1763.59,Redes Sociales,12,6108,3067,79,Oriente,Alta,Medio,9,0,0.0
+576,Retail,Pequeña,4942.3,Diseño,30,8087,4438,52,Lima,Baja,Alto,6,0,0.0
+577,Educación,Grande,15932.65,Redes Sociales,34,31066,412,898,Centro,Media,Medio,1,0,0.0
+578,Retail,Mediana,886.47,Consultoría,5,3432,8615,921,Sur,Baja,Medio,4,0,0.0
+579,Educación,Mediana,11739.58,SEO/SEM,4,887,8246,781,Lima,Media,Alto,8,1,45534.95
+580,Tecnología,Mediana,19909.66,Diseño,21,39090,6359,226,Lima,Baja,Bajo,7,0,0.0
+581,Salud,Mediana,17142.78,Publicidad,22,9973,4167,51,Norte,Alta,Medio,3,0,0.0
+582,Retail,Mediana,10524.62,Consultoría,24,17106,877,186,Norte,Media,Alto,10,1,48317.76
+583,Otros,Pequeña,1460.09,Redes Sociales,33,20325,8220,34,Norte,Baja,Alto,3,0,0.0
+584,Gastronomía,Pequeña,16661.2,Redes Sociales,25,36544,374,803,Sur,Baja,Alto,3,1,83643.26
+585,Tecnología,Grande,12059.77,SEO/SEM,4,35440,7477,742,Centro,Media,Medio,1,0,0.0
+586,Retail,Mediana,2475.67,Publicidad,25,39783,6581,131,Centro,Alta,Alto,10,1,10777.03
+587,Gastronomía,Mediana,2058.37,Publicidad,19,5133,589,632,Centro,Media,Bajo,1,0,0.0
+588,Retail,Pequeña,18210.61,Branding,5,7888,7684,443,Sur,Media,Bajo,6,0,0.0
+589,Educación,Pequeña,13450.17,Publicidad,5,15789,8747,838,Sur,Media,Medio,1,0,0.0
+590,Retail,Pequeña,16619.88,SEO/SEM,17,44320,6478,759,Norte,Media,Medio,5,0,0.0
+591,Otros,Mediana,17603.78,Branding,3,21698,4160,432,Lima,Media,Medio,4,0,0.0
+592,Retail,Pequeña,11521.09,Branding,16,37580,3049,704,Oriente,Media,Medio,5,0,0.0
+593,Retail,Pequeña,10445.44,Redes Sociales,13,29803,4147,497,Oriente,Media,Bajo,7,0,0.0
+594,Otros,Pequeña,8722.46,Redes Sociales,13,166,462,403,Lima,Media,Medio,6,0,0.0
+595,Tecnología,Pequeña,6475.54,Publicidad,12,48723,6547,323,Norte,Media,Alto,9,1,27684.93
+596,Retail,Mediana,8805.0,Branding,6,45346,1391,210,Lima,Alta,Medio,6,0,0.0
+597,Otros,Pequeña,15522.82,Redes Sociales,14,7633,8164,615,Lima,Alta,Bajo,9,1,63298.13
+598,Gastronomía,Mediana,12118.08,SEO/SEM,18,15203,1477,329,Oriente,Media,Medio,4,0,0.0
+599,Educación,Pequeña,17871.96,Redes Sociales,34,4716,2748,372,Norte,Media,Medio,1,0,0.0
+600,Educación,Pequeña,8978.92,Diseño,16,46145,7582,460,Sur,Baja,Medio,1,0,0.0
+601,Retail,Pequeña,12220.37,Diseño,34,38598,9418,133,Oriente,Alta,Medio,10,1,50680.92
+602,Tecnología,Pequeña,12699.89,Redes Sociales,18,43592,6757,835,Sur,Media,Medio,7,0,0.0
+603,Tecnología,Pequeña,11915.6,Branding,19,11872,890,651,Norte,Baja,Alto,3,1,40944.52
+604,Gastronomía,Pequeña,14112.15,Branding,35,23949,3159,121,Lima,Media,Bajo,2,0,0.0
+605,Retail,Mediana,4901.18,Consultoría,34,49136,8286,606,Centro,Alta,Medio,6,0,0.0
+606,Educación,Pequeña,10344.8,Diseño,31,13040,7902,452,Centro,Baja,Medio,6,0,0.0
+607,Tecnología,Mediana,2263.65,SEO/SEM,23,17032,4154,965,Norte,Media,Medio,7,0,0.0
+608,Retail,Grande,7813.32,Branding,16,29869,1178,129,Centro,Media,Bajo,5,0,0.0
+609,Tecnología,Mediana,9855.81,Publicidad,6,24748,3139,91,Sur,Baja,Bajo,8,1,38299.46
+610,Otros,Pequeña,13114.04,Diseño,0,47511,3655,604,Centro,Baja,Medio,7,0,0.0
+611,Tecnología,Pequeña,19020.51,SEO/SEM,34,33066,2536,575,Norte,Alta,Alto,2,1,79852.42
+612,Educación,Pequeña,12092.89,SEO/SEM,31,27877,3526,29,Norte,Alta,Alto,1,1,20004.86
+613,Salud,Pequeña,14923.16,Branding,35,32667,3377,722,Sur,Baja,Medio,9,1,53367.26
+614,Gastronomía,Grande,10224.07,SEO/SEM,12,49823,7348,524,Centro,Alta,Alto,5,1,45006.68
+615,Gastronomía,Pequeña,12755.26,Branding,5,17274,3565,333,Centro,Media,Bajo,5,0,0.0
+616,Educación,Pequeña,1604.46,Redes Sociales,13,42698,5121,297,Lima,Media,Alto,10,1,7150.0
+617,Tecnología,Mediana,5236.95,Diseño,36,13898,6762,130,Oriente,Media,Medio,4,0,0.0
+618,Retail,Mediana,7364.69,Consultoría,14,17658,455,293,Norte,Alta,Medio,2,0,0.0
+619,Tecnología,Mediana,9555.37,Redes Sociales,3,44337,6374,173,Lima,Media,Alto,5,1,30597.17
+620,Educación,Pequeña,1103.85,Diseño,15,278,3636,720,Norte,Baja,Alto,2,0,0.0
+621,Gastronomía,Pequeña,2972.48,Branding,27,20570,4026,944,Lima,Alta,Alto,7,0,0.0
+622,Tecnología,Mediana,5680.92,Diseño,15,17218,3885,24,Oriente,Media,Bajo,9,1,27505.31
+623,Gastronomía,Pequeña,19436.35,Branding,3,22716,5507,99,Lima,Baja,Alto,9,1,51951.88
+624,Retail,Pequeña,6760.67,Redes Sociales,25,898,6248,406,Norte,Media,Alto,6,1,24415.47
+625,Gastronomía,Pequeña,9744.41,Publicidad,27,7701,271,356,Centro,Media,Medio,1,0,0.0
+626,Gastronomía,Pequeña,4082.73,Publicidad,31,25463,5002,139,Norte,Alta,Bajo,6,0,0.0
+627,Salud,Pequeña,12293.45,Diseño,1,2895,4035,503,Sur,Media,Bajo,5,0,0.0
+628,Salud,Pequeña,5757.53,Publicidad,30,32026,8293,826,Sur,Baja,Alto,4,1,7391.89
+629,Otros,Mediana,4298.45,Branding,2,45364,4232,174,Sur,Media,Medio,6,0,0.0
+630,Salud,Mediana,10428.14,SEO/SEM,7,37456,4185,29,Sur,Media,Medio,6,0,0.0
+631,Gastronomía,Mediana,309.01,Branding,23,7397,9184,931,Oriente,Baja,Medio,6,0,0.0
+632,Educación,Pequeña,351.75,SEO/SEM,14,3184,3453,496,Centro,Media,Medio,2,0,0.0
+633,Gastronomía,Pequeña,4537.56,Redes Sociales,30,30429,5021,655,Centro,Alta,Medio,7,0,0.0
+634,Educación,Pequeña,927.08,Consultoría,8,11210,703,828,Norte,Baja,Medio,4,0,0.0
+635,Educación,Mediana,2338.91,SEO/SEM,1,831,8357,351,Lima,Media,Alto,9,1,2203.67
+636,Salud,Mediana,6909.44,Publicidad,7,1229,1822,554,Norte,Media,Medio,10,1,8649.2
+637,Tecnología,Pequeña,16091.2,Branding,6,28122,5734,299,Norte,Baja,Alto,2,1,35696.96
+638,Retail,Grande,11526.56,Redes Sociales,15,1705,1417,720,Norte,Media,Medio,5,0,0.0
+639,Salud,Pequeña,10350.82,Publicidad,34,12070,8042,842,Norte,Media,Bajo,4,0,0.0
+640,Salud,Mediana,6011.08,Redes Sociales,29,43805,9418,945,Centro,Alta,Medio,9,1,23989.93
+641,Tecnología,Mediana,18648.72,Consultoría,9,44230,1420,192,Lima,Baja,Medio,4,0,0.0
+642,Retail,Grande,8060.9,Branding,17,29365,3507,672,Norte,Media,Medio,8,1,33772.17
+643,Gastronomía,Mediana,1924.44,Diseño,4,32430,4382,64,Centro,Baja,Alto,8,1,11087.56
+644,Otros,Mediana,12417.92,Branding,28,3033,7404,755,Norte,Alta,Medio,6,0,0.0
+645,Otros,Pequeña,2454.0,Consultoría,33,15287,561,770,Sur,Media,Bajo,6,0,0.0
+646,Gastronomía,Mediana,7035.42,Branding,22,25891,9378,664,Norte,Media,Bajo,8,1,33004.34
+647,Salud,Pequeña,10246.76,Diseño,4,25000,4342,215,Norte,Baja,Medio,10,1,22994.21
+648,Retail,Grande,17509.61,SEO/SEM,29,5174,1007,834,Oriente,Media,Alto,9,1,53768.62
+649,Salud,Mediana,9972.22,Redes Sociales,5,46905,4086,166,Sur,Baja,Medio,5,0,0.0
+650,Educación,Mediana,14104.72,Diseño,3,26526,6109,543,Lima,Alta,Medio,1,0,0.0
+651,Salud,Pequeña,19857.77,Publicidad,28,39967,5565,883,Norte,Media,Medio,1,0,0.0
+652,Salud,Mediana,2803.48,Consultoría,22,993,4062,232,Lima,Media,Medio,2,0,0.0
+653,Gastronomía,Mediana,5639.68,SEO/SEM,5,34258,5313,794,Sur,Media,Medio,10,1,16840.99
+654,Gastronomía,Mediana,8012.61,Publicidad,31,19873,8128,541,Norte,Media,Bajo,10,1,24576.49
+655,Gastronomía,Pequeña,8552.2,Publicidad,17,4339,6112,195,Oriente,Media,Medio,5,0,0.0
+656,Otros,Pequeña,8338.22,Consultoría,14,20963,5500,506,Centro,Media,Bajo,4,0,0.0
+657,Educación,Pequeña,18170.7,SEO/SEM,31,3532,8574,334,Oriente,Media,Bajo,1,0,0.0
+658,Gastronomía,Pequeña,14337.85,Publicidad,8,35239,5626,768,Oriente,Media,Alto,4,1,53859.3
+659,Retail,Grande,12236.52,Publicidad,36,1615,2258,793,Centro,Media,Bajo,4,0,0.0
+660,Otros,Pequeña,6325.58,SEO/SEM,9,31770,858,304,Centro,Baja,Alto,10,1,22136.1
+661,Tecnología,Grande,16511.05,Branding,19,48774,6364,833,Centro,Alta,Alto,4,1,72029.36
+662,Retail,Pequeña,19110.2,Publicidad,5,39194,8705,437,Norte,Media,Medio,1,0,0.0
+663,Retail,Pequeña,16459.73,Redes Sociales,2,14705,8080,323,Lima,Media,Medio,9,1,54765.84
+664,Gastronomía,Mediana,230.99,SEO/SEM,10,5686,8904,502,Lima,Alta,Bajo,3,0,0.0
+665,Tecnología,Mediana,12800.75,Publicidad,16,35785,3635,858,Centro,Baja,Alto,4,1,37464.45
+666,Tecnología,Pequeña,1212.48,Consultoría,31,48769,324,914,Oriente,Alta,Medio,5,0,0.0
+667,Otros,Mediana,5300.62,Diseño,3,31286,2386,393,Sur,Alta,Medio,7,0,0.0
+668,Tecnología,Mediana,1378.59,Redes Sociales,3,27028,9242,806,Centro,Alta,Bajo,6,0,0.0
+669,Educación,Pequeña,12155.15,Diseño,16,32828,4388,599,Oriente,Alta,Alto,5,1,42265.26
+670,Gastronomía,Grande,13794.48,Diseño,18,17651,8459,149,Oriente,Media,Bajo,8,1,29942.82
+671,Tecnología,Grande,2466.86,Publicidad,4,21593,584,761,Norte,Baja,Medio,1,0,0.0
+672,Otros,Mediana,7800.01,Redes Sociales,31,20811,9754,833,Norte,Media,Medio,7,0,0.0
+673,Educación,Pequeña,9233.48,Redes Sociales,21,20139,5595,405,Lima,Media,Bajo,6,0,0.0
+674,Salud,Mediana,7507.25,Branding,5,36661,5502,283,Lima,Baja,Medio,5,0,0.0
+675,Salud,Pequeña,2596.3,Diseño,34,10047,8959,362,Sur,Media,Alto,7,0,0.0
+676,Educación,Pequeña,8495.17,Redes Sociales,21,32435,2820,379,Sur,Media,Alto,3,1,35185.63
+677,Otros,Pequeña,15073.33,Branding,0,15959,8144,198,Sur,Alta,Alto,1,1,37213.4
+678,Educación,Pequeña,1605.95,SEO/SEM,19,23222,9306,556,Sur,Alta,Medio,9,0,0.0
+679,Gastronomía,Grande,1787.56,Branding,21,1677,5680,356,Oriente,Alta,Medio,2,0,0.0
+680,Gastronomía,Mediana,7224.47,Consultoría,10,42356,7725,540,Oriente,Media,Bajo,10,1,24738.74
+681,Salud,Mediana,18846.17,Publicidad,12,28450,6577,429,Lima,Alta,Medio,3,0,0.0
+682,Tecnología,Pequeña,13437.74,SEO/SEM,2,42032,3469,17,Norte,Alta,Bajo,8,1,37424.55
+683,Otros,Pequeña,13637.67,SEO/SEM,8,33898,6127,639,Norte,Media,Medio,10,1,55855.2
+684,Salud,Pequeña,7366.02,Consultoría,11,31998,4002,379,Centro,Baja,Medio,9,1,31950.31
+685,Tecnología,Grande,11954.48,Branding,22,15981,7847,680,Oriente,Alta,Medio,3,0,0.0
+686,Tecnología,Pequeña,400.6,Publicidad,13,10885,213,506,Sur,Alta,Medio,6,0,0.0
+687,Gastronomía,Grande,12794.7,Branding,32,6791,2785,756,Sur,Media,Alto,7,1,24958.12
+688,Retail,Mediana,18283.08,Redes Sociales,17,17397,2002,899,Centro,Baja,Medio,1,0,0.0
+689,Retail,Pequeña,12328.95,Branding,8,6458,2253,76,Norte,Media,Alto,7,1,37354.05
+690,Educación,Mediana,17499.23,SEO/SEM,22,19681,8508,231,Sur,Baja,Alto,4,1,64782.63
+691,Gastronomía,Pequeña,14534.67,Publicidad,9,1562,1697,716,Norte,Alta,Medio,5,0,0.0
+692,Tecnología,Grande,2587.06,Branding,18,15611,4119,962,Centro,Alta,Medio,8,0,0.0
+693,Otros,Grande,18068.58,Publicidad,4,10670,1870,248,Norte,Baja,Bajo,4,0,0.0
+694,Retail,Pequeña,1515.59,Publicidad,22,48765,5186,302,Norte,Media,Alto,4,0,0.0
+695,Tecnología,Pequeña,10772.56,Redes Sociales,29,44514,732,726,Norte,Baja,Medio,8,1,39472.62
+696,Retail,Mediana,3014.32,Redes Sociales,24,15574,8981,215,Sur,Media,Alto,5,0,0.0
+697,Retail,Grande,431.79,SEO/SEM,27,7137,8730,158,Lima,Media,Medio,6,0,0.0
+698,Retail,Pequeña,8556.28,Consultoría,33,28229,4903,69,Oriente,Media,Alto,5,1,24198.38
+699,Otros,Mediana,6041.81,Publicidad,24,42367,353,393,Norte,Media,Alto,1,1,11424.5
+700,Gastronomía,Mediana,9822.81,Consultoría,9,13486,5408,85,Norte,Baja,Medio,7,0,0.0
+701,Otros,Mediana,11628.56,SEO/SEM,13,6321,8410,267,Norte,Media,Medio,6,0,0.0
+702,Salud,Pequeña,1066.03,Publicidad,29,23574,4746,69,Lima,Baja,Medio,2,0,0.0
+703,Tecnología,Mediana,2635.47,Publicidad,24,40637,3416,611,Centro,Media,Medio,7,0,0.0
+704,Gastronomía,Grande,11261.12,Diseño,13,49939,9513,347,Sur,Baja,Medio,6,0,0.0
+705,Gastronomía,Pequeña,6994.71,Consultoría,34,47224,929,962,Lima,Media,Alto,5,1,19636.36
+706,Gastronomía,Pequeña,14637.64,Branding,33,21145,5829,728,Norte,Alta,Medio,8,1,65694.7
+707,Gastronomía,Grande,13115.37,Redes Sociales,9,25883,2054,927,Lima,Alta,Alto,5,1,43158.84
+708,Otros,Pequeña,16942.97,Branding,34,40257,428,673,Lima,Alta,Alto,2,1,42439.04
+709,Gastronomía,Grande,13911.36,Consultoría,10,5022,1759,423,Lima,Alta,Medio,6,0,0.0
+710,Educación,Pequeña,8712.64,Redes Sociales,10,46507,7388,606,Centro,Baja,Alto,1,1,22975.67
+711,Tecnología,Pequeña,13524.74,Branding,20,22806,1109,174,Oriente,Baja,Medio,5,0,0.0
+712,Gastronomía,Grande,5652.55,Diseño,20,42871,3402,677,Sur,Media,Alto,6,1,32819.2
+713,Tecnología,Pequeña,6265.01,Redes Sociales,21,32579,2782,115,Centro,Alta,Medio,7,0,0.0
+714,Educación,Mediana,15821.91,Publicidad,6,5278,6794,220,Centro,Alta,Medio,2,0,0.0
+715,Educación,Pequeña,9039.11,Branding,16,30122,1555,956,Oriente,Baja,Medio,1,0,0.0
+716,Tecnología,Mediana,16007.93,Redes Sociales,1,15340,1080,31,Centro,Media,Medio,6,0,0.0
+717,Retail,Pequeña,16483.96,Diseño,11,26320,6532,523,Lima,Baja,Medio,3,0,0.0
+718,Salud,Pequeña,17179.73,Redes Sociales,17,36836,1860,343,Lima,Media,Medio,5,0,0.0
+719,Retail,Grande,18349.38,Redes Sociales,10,2816,5063,377,Norte,Media,Medio,2,0,0.0
+720,Retail,Pequeña,8733.51,Diseño,15,16674,2949,130,Centro,Baja,Alto,1,1,14772.28
+721,Otros,Mediana,6513.56,Branding,17,46379,7204,1000,Norte,Media,Medio,1,0,0.0
+722,Retail,Pequeña,11727.54,SEO/SEM,34,17819,5861,617,Sur,Media,Medio,4,0,0.0
+723,Gastronomía,Mediana,7549.21,Branding,25,8281,6683,539,Lima,Media,Medio,10,1,24573.58
+724,Otros,Pequeña,12101.27,Consultoría,15,45863,688,739,Sur,Baja,Alto,2,1,40197.22
+725,Otros,Grande,14170.6,Diseño,5,44166,998,2,Oriente,Alta,Alto,1,1,46103.59
+726,Educación,Pequeña,13830.42,Branding,11,49630,9809,871,Lima,Media,Medio,6,0,0.0
+727,Retail,Pequeña,7616.15,Redes Sociales,12,20313,1512,101,Sur,Alta,Bajo,4,0,0.0
+728,Educación,Pequeña,3503.83,Diseño,3,6480,1799,533,Oriente,Alta,Medio,10,0,0.0
+729,Tecnología,Pequeña,8724.48,Publicidad,1,715,5291,58,Sur,Baja,Medio,7,0,0.0
+730,Salud,Mediana,3023.36,Branding,25,563,5037,389,Oriente,Baja,Alto,6,0,0.0
+731,Otros,Pequeña,17823.92,Diseño,26,32073,1435,692,Oriente,Media,Medio,5,0,0.0
+732,Tecnología,Mediana,7048.37,Branding,26,9258,6664,941,Lima,Baja,Alto,10,1,28285.84
+733,Tecnología,Pequeña,3258.3,Diseño,14,20751,2450,341,Norte,Alta,Medio,2,0,0.0
+734,Gastronomía,Pequeña,703.87,Redes Sociales,7,3258,6866,861,Oriente,Media,Alto,5,0,0.0
+735,Salud,Mediana,12987.28,Publicidad,6,20108,7377,20,Oriente,Alta,Bajo,9,1,33282.52
+736,Tecnología,Mediana,12810.67,Publicidad,11,46302,9480,255,Lima,Baja,Alto,9,1,43125.04
+737,Tecnología,Pequeña,6943.96,Consultoría,12,5038,2604,317,Norte,Media,Alto,2,1,27634.67
+738,Salud,Pequeña,1619.9,Diseño,16,38285,4699,38,Centro,Media,Alto,7,0,0.0
+739,Salud,Pequeña,8310.65,Branding,16,22488,2446,660,Centro,Baja,Bajo,10,1,29192.81
+740,Tecnología,Mediana,6362.11,Publicidad,35,8981,5527,537,Norte,Media,Bajo,4,0,0.0
+741,Salud,Mediana,13606.99,Publicidad,20,5703,9229,386,Sur,Alta,Medio,3,0,0.0
+742,Tecnología,Pequeña,12194.43,SEO/SEM,7,35080,6320,633,Lima,Media,Bajo,1,0,0.0
+743,Tecnología,Mediana,7418.96,SEO/SEM,4,22604,3549,928,Norte,Media,Bajo,3,0,0.0
+744,Gastronomía,Mediana,4514.27,Publicidad,25,16866,3493,26,Centro,Baja,Medio,9,0,0.0
+745,Retail,Mediana,19763.11,Diseño,15,28486,7381,454,Oriente,Media,Medio,9,1,97113.35
+746,Tecnología,Grande,9189.23,Consultoría,35,11795,2251,681,Centro,Alta,Medio,7,0,0.0
+747,Educación,Pequeña,13827.83,Publicidad,27,17896,6388,323,Oriente,Alta,Bajo,3,0,0.0
+748,Otros,Pequeña,2982.95,Redes Sociales,28,42643,2775,737,Lima,Media,Bajo,3,0,0.0
+749,Retail,Pequeña,9814.68,Branding,11,14659,9375,513,Oriente,Alta,Medio,4,0,0.0
+750,Retail,Pequeña,745.23,Consultoría,36,39014,4921,819,Norte,Media,Medio,7,0,0.0
+751,Retail,Mediana,10208.01,Redes Sociales,29,33239,413,773,Oriente,Baja,Bajo,7,0,0.0
+752,Gastronomía,Grande,19287.54,Consultoría,22,38433,3392,13,Sur,Baja,Medio,2,0,0.0
+753,Tecnología,Pequeña,7807.29,Redes Sociales,15,8902,4173,915,Norte,Alta,Alto,5,1,27820.63
+754,Gastronomía,Pequeña,972.12,Branding,13,8407,7640,908,Lima,Baja,Alto,7,0,0.0
+755,Tecnología,Pequeña,812.92,Branding,9,40305,97,560,Norte,Media,Alto,7,0,0.0
+756,Gastronomía,Grande,7882.14,SEO/SEM,6,33314,9360,921,Sur,Media,Alto,6,1,33330.3
+757,Gastronomía,Pequeña,3368.49,Diseño,36,34259,5826,825,Lima,Media,Medio,10,0,0.0
+758,Otros,Mediana,662.37,Redes Sociales,28,11616,5480,371,Centro,Media,Medio,10,0,0.0
+759,Educación,Pequeña,15173.03,SEO/SEM,2,29186,6286,291,Sur,Baja,Medio,8,1,29377.6
+760,Gastronomía,Pequeña,9278.76,Redes Sociales,14,48322,5749,332,Lima,Baja,Medio,3,0,0.0
+761,Otros,Grande,5927.05,SEO/SEM,35,30580,4283,606,Oriente,Media,Medio,1,0,0.0
+762,Salud,Grande,18021.65,Branding,18,44759,9583,261,Norte,Media,Medio,3,0,0.0
+763,Educación,Pequeña,2499.55,Consultoría,12,47866,6533,994,Lima,Media,Medio,2,0,0.0
+764,Gastronomía,Grande,19127.19,SEO/SEM,20,38837,5013,790,Norte,Media,Bajo,2,0,0.0
+765,Retail,Mediana,6416.54,Redes Sociales,36,9365,8048,871,Oriente,Baja,Alto,2,1,21742.17
+766,Salud,Grande,17790.39,Redes Sociales,26,48729,6616,205,Lima,Alta,Bajo,5,0,0.0
+767,Salud,Pequeña,12138.27,Diseño,28,5554,2074,697,Centro,Media,Medio,1,0,0.0
+768,Otros,Mediana,16568.81,Branding,19,36018,5325,687,Sur,Baja,Bajo,10,1,49625.9
+769,Salud,Pequeña,19683.46,Redes Sociales,24,26281,327,950,Lima,Media,Medio,4,0,0.0
+770,Educación,Mediana,5910.43,Publicidad,5,15486,1512,387,Oriente,Alta,Bajo,10,1,21450.02
+771,Gastronomía,Pequeña,19230.48,Consultoría,35,39282,6140,892,Lima,Alta,Alto,5,1,44422.74
+772,Gastronomía,Pequeña,7911.74,SEO/SEM,1,37525,7429,821,Norte,Baja,Medio,2,0,0.0
+773,Retail,Pequeña,7833.14,Diseño,21,43354,2052,468,Lima,Media,Medio,5,0,0.0
+774,Otros,Mediana,6939.66,Consultoría,31,24427,4608,415,Centro,Baja,Medio,10,1,18889.62
+775,Retail,Pequeña,10919.87,Branding,15,21281,128,69,Lima,Baja,Medio,4,0,0.0
+776,Salud,Mediana,3252.07,Diseño,17,47762,719,472,Sur,Media,Alto,8,1,5909.88
+777,Retail,Grande,11163.49,SEO/SEM,4,21552,3567,104,Lima,Media,Medio,1,0,0.0
+778,Educación,Pequeña,10925.76,SEO/SEM,35,38348,3260,758,Norte,Media,Alto,5,1,38692.29
+779,Gastronomía,Mediana,15285.66,Publicidad,29,40901,8071,161,Lima,Media,Alto,10,1,32161.48
+780,Salud,Pequeña,16706.27,Branding,18,33851,8619,200,Centro,Baja,Alto,1,1,22613.96
+781,Retail,Grande,8920.74,Diseño,22,22091,2613,216,Oriente,Media,Medio,10,1,27889.38
+782,Otros,Pequeña,6186.2,Diseño,33,41411,1111,946,Lima,Baja,Medio,10,1,30846.88
+783,Educación,Mediana,5334.83,Redes Sociales,12,10016,4431,212,Lima,Baja,Medio,4,0,0.0
+784,Educación,Mediana,4053.55,Publicidad,28,10243,7867,508,Sur,Media,Medio,8,0,0.0
+785,Retail,Grande,1341.42,Publicidad,35,25955,8187,16,Centro,Media,Alto,1,0,0.0
+786,Gastronomía,Mediana,6980.47,Diseño,21,15681,6092,498,Oriente,Baja,Alto,2,1,27759.41
+787,Retail,Pequeña,5550.9,Diseño,35,2007,6668,884,Norte,Media,Alto,1,1,19880.99
+788,Salud,Mediana,19335.06,Consultoría,8,29524,2271,332,Lima,Baja,Alto,7,1,77320.33
+789,Retail,Grande,11242.63,Consultoría,18,23408,8031,717,Oriente,Baja,Bajo,2,0,0.0
+790,Educación,Mediana,7076.09,Consultoría,5,42084,518,877,Norte,Media,Bajo,1,0,0.0
+791,Retail,Pequeña,11693.26,Publicidad,14,41605,2389,551,Centro,Baja,Medio,6,0,0.0
+792,Gastronomía,Grande,2956.09,Redes Sociales,19,46625,8889,601,Centro,Media,Alto,6,0,0.0
+793,Otros,Mediana,8992.07,SEO/SEM,8,37042,4762,942,Oriente,Baja,Alto,10,1,35319.58
+794,Tecnología,Mediana,12599.44,Consultoría,31,27057,9494,256,Norte,Media,Medio,2,0,0.0
+795,Retail,Pequeña,9880.18,Redes Sociales,3,25564,5505,992,Centro,Baja,Alto,1,1,32386.24
+796,Gastronomía,Mediana,8155.22,Branding,17,48576,3219,766,Oriente,Baja,Alto,10,1,34277.41
+797,Gastronomía,Pequeña,19878.2,Consultoría,4,23749,7408,728,Centro,Media,Alto,3,1,81729.26
+798,Otros,Mediana,17630.23,SEO/SEM,19,42165,6753,880,Centro,Alta,Alto,10,1,32013.5
+799,Educación,Pequeña,12543.44,Branding,22,27225,5658,815,Centro,Baja,Medio,5,0,0.0
+800,Gastronomía,Mediana,11473.67,Branding,10,34858,5181,172,Sur,Media,Medio,6,0,0.0
+801,Gastronomía,Grande,12489.08,SEO/SEM,36,5696,7900,649,Norte,Media,Medio,3,0,0.0
+802,Gastronomía,Pequeña,4185.98,Consultoría,21,16474,334,1000,Oriente,Media,Medio,9,0,0.0
+803,Gastronomía,Grande,8023.73,Publicidad,3,3875,3567,498,Oriente,Alta,Medio,5,0,0.0
+804,Salud,Pequeña,981.3,SEO/SEM,28,27488,3597,471,Norte,Baja,Bajo,2,0,0.0
+805,Salud,Grande,9615.81,SEO/SEM,33,21129,161,384,Norte,Alta,Alto,10,1,37447.08
+806,Educación,Mediana,10951.89,SEO/SEM,12,18545,964,690,Norte,Media,Medio,6,0,0.0
+807,Retail,Mediana,4709.44,Branding,8,48574,4364,589,Norte,Media,Alto,8,1,18140.97
+808,Gastronomía,Mediana,19287.77,Redes Sociales,30,14745,7170,700,Lima,Alta,Medio,6,0,0.0
+809,Otros,Grande,18207.2,Publicidad,6,31205,9393,507,Oriente,Media,Medio,4,0,0.0
+810,Retail,Pequeña,14498.44,Consultoría,3,13768,697,992,Lima,Media,Medio,6,0,0.0
+811,Otros,Pequeña,10761.06,Consultoría,18,16060,8511,527,Centro,Media,Bajo,8,1,24535.35
+812,Retail,Mediana,17425.39,Redes Sociales,29,11457,9704,804,Centro,Media,Medio,8,1,78496.74
+813,Educación,Mediana,2786.92,SEO/SEM,30,37303,3137,831,Oriente,Baja,Medio,10,0,0.0
+814,Gastronomía,Mediana,15852.09,Publicidad,34,15904,6773,325,Centro,Media,Bajo,2,0,0.0
+815,Gastronomía,Mediana,2671.45,Consultoría,20,14726,3405,214,Norte,Baja,Medio,8,0,0.0
+816,Tecnología,Pequeña,15925.37,Diseño,30,28232,9015,208,Lima,Alta,Medio,6,0,0.0
+817,Otros,Mediana,5660.2,Consultoría,18,8051,855,169,Norte,Alta,Alto,2,1,24862.22
+818,Retail,Pequeña,17566.39,SEO/SEM,30,6549,1174,330,Centro,Media,Bajo,1,0,0.0
+819,Retail,Mediana,18892.03,Diseño,31,19165,5914,280,Lima,Media,Medio,6,0,0.0
+820,Salud,Pequeña,3146.16,Redes Sociales,1,36067,9969,978,Norte,Baja,Alto,7,0,0.0
+821,Tecnología,Pequeña,9360.98,Publicidad,9,39636,5370,305,Oriente,Baja,Medio,10,1,32033.71
+822,Salud,Pequeña,19623.55,Redes Sociales,1,9230,364,146,Norte,Alta,Alto,5,1,71456.81
+823,Salud,Pequeña,9771.47,Redes Sociales,1,23924,1882,775,Centro,Baja,Alto,10,1,24725.28
+824,Salud,Mediana,17298.24,Publicidad,23,41501,2034,516,Lima,Media,Alto,8,1,65290.83
+825,Otros,Pequeña,11856.88,Publicidad,16,37093,2827,90,Oriente,Alta,Bajo,9,1,48241.1
+826,Otros,Pequeña,7631.53,Consultoría,31,31975,3842,453,Lima,Alta,Alto,4,1,20596.65
+827,Educación,Pequeña,5858.51,Consultoría,15,49848,8267,60,Oriente,Media,Alto,7,1,11612.17
+828,Educación,Pequeña,4223.82,Publicidad,15,6154,2591,311,Lima,Media,Medio,8,0,0.0
+829,Salud,Pequeña,15283.6,Diseño,30,34373,9592,528,Centro,Media,Medio,6,0,0.0
+830,Tecnología,Pequeña,7853.5,Branding,23,41921,9332,227,Oriente,Alta,Medio,2,0,0.0
+831,Retail,Mediana,10323.25,Consultoría,0,48617,2496,474,Sur,Media,Alto,7,1,38909.14
+832,Otros,Mediana,9948.04,Branding,10,10932,9036,978,Lima,Media,Medio,9,1,35072.7
+833,Tecnología,Mediana,11630.12,Diseño,20,29770,8428,541,Lima,Baja,Alto,5,1,40851.05
+834,Gastronomía,Pequeña,17338.43,Publicidad,3,49212,2453,663,Norte,Baja,Bajo,2,0,0.0
+835,Otros,Pequeña,19618.64,Diseño,6,22952,8929,757,Oriente,Media,Alto,4,1,97084.38
+836,Otros,Grande,8270.17,Consultoría,25,23720,1046,782,Sur,Alta,Medio,3,0,0.0
+837,Educación,Mediana,16584.87,Redes Sociales,11,28407,8694,79,Centro,Alta,Medio,4,0,0.0
+838,Retail,Pequeña,15337.65,Publicidad,30,47651,7445,433,Norte,Alta,Medio,10,1,58822.43
+839,Retail,Pequeña,11555.87,SEO/SEM,16,1651,1558,801,Sur,Media,Bajo,7,0,0.0
+840,Gastronomía,Pequeña,19129.73,Branding,32,48022,9345,153,Oriente,Media,Bajo,10,1,87224.11
+841,Gastronomía,Pequeña,4169.4,Diseño,10,27912,5075,789,Sur,Alta,Medio,8,0,0.0
+842,Otros,Pequeña,2363.43,Publicidad,27,13899,6506,401,Lima,Media,Medio,1,0,0.0
+843,Salud,Mediana,17108.45,Diseño,31,26412,6193,279,Lima,Media,Alto,8,1,60554.92
+844,Educación,Mediana,8895.17,Publicidad,0,39720,3967,57,Norte,Media,Alto,5,1,20964.95
+845,Educación,Mediana,16969.98,Consultoría,27,1549,3417,977,Oriente,Alta,Medio,7,0,0.0
+846,Otros,Mediana,17883.19,Consultoría,6,24526,649,186,Oriente,Baja,Bajo,1,0,0.0
+847,Tecnología,Mediana,1436.66,Consultoría,1,35527,182,398,Sur,Alta,Medio,2,0,0.0
+848,Salud,Mediana,17692.6,Diseño,23,40377,5676,605,Norte,Baja,Alto,1,1,64315.46
+849,Otros,Grande,9076.72,SEO/SEM,3,31651,4364,788,Oriente,Media,Medio,5,0,0.0
+850,Salud,Pequeña,10306.56,Consultoría,18,24377,3969,158,Lima,Media,Bajo,6,0,0.0
+851,Salud,Pequeña,12606.53,Publicidad,25,35589,8718,787,Sur,Media,Medio,10,1,41972.44
+852,Salud,Pequeña,18542.38,Consultoría,10,45312,8724,693,Centro,Media,Alto,9,1,81847.25
+853,Otros,Mediana,578.5,Redes Sociales,10,9737,2896,359,Lima,Alta,Medio,8,0,0.0
+854,Educación,Grande,9641.5,Consultoría,2,43358,2174,440,Norte,Media,Alto,7,1,45479.48
+855,Educación,Pequeña,13816.9,Diseño,11,35793,3955,589,Oriente,Baja,Medio,5,0,0.0
+856,Salud,Grande,14509.6,SEO/SEM,2,9924,5245,466,Lima,Media,Bajo,3,0,0.0
+857,Tecnología,Pequeña,13912.14,Redes Sociales,26,27050,7756,663,Centro,Baja,Medio,9,1,56709.04
+858,Retail,Grande,2861.82,Diseño,1,23588,2600,446,Centro,Baja,Medio,5,0,0.0
+859,Otros,Pequeña,6128.03,Diseño,15,39108,7764,750,Norte,Media,Bajo,3,0,0.0
+860,Retail,Pequeña,7302.57,Diseño,1,49764,4944,801,Lima,Alta,Bajo,3,0,0.0
+861,Tecnología,Pequeña,16127.86,Publicidad,29,315,4086,743,Sur,Media,Bajo,3,0,0.0
+862,Otros,Pequeña,5719.45,Diseño,19,40167,5195,488,Lima,Media,Bajo,6,0,0.0
+863,Salud,Pequeña,4371.96,Publicidad,27,11623,1103,530,Centro,Media,Medio,1,0,0.0
+864,Educación,Pequeña,19157.47,Diseño,24,10464,3890,73,Norte,Baja,Alto,4,1,70319.55
+865,Retail,Mediana,375.49,Branding,31,3253,6569,929,Norte,Alta,Medio,8,0,0.0
+866,Gastronomía,Mediana,19956.85,Redes Sociales,9,23934,2795,928,Sur,Media,Medio,3,0,0.0
+867,Gastronomía,Pequeña,13601.06,Branding,32,34574,6075,701,Norte,Alta,Medio,5,0,0.0
+868,Tecnología,Mediana,16603.69,Diseño,12,43166,6549,950,Norte,Baja,Medio,2,0,0.0
+869,Salud,Mediana,6033.46,Redes Sociales,36,34435,1584,17,Norte,Baja,Bajo,2,0,0.0
+870,Retail,Pequeña,483.44,Redes Sociales,15,10500,5686,531,Norte,Alta,Medio,7,0,0.0
+871,Salud,Pequeña,14809.82,SEO/SEM,21,10445,8070,731,Norte,Media,Medio,10,1,49897.49
+872,Retail,Pequeña,16716.06,Branding,19,33996,4000,326,Centro,Baja,Bajo,3,0,0.0
+873,Tecnología,Pequeña,14861.43,SEO/SEM,26,19994,5220,995,Lima,Baja,Alto,5,1,46614.52
+874,Tecnología,Mediana,3028.44,Redes Sociales,15,28999,4855,632,Oriente,Alta,Medio,3,0,0.0
+875,Gastronomía,Pequeña,15117.87,Publicidad,33,40735,9295,613,Norte,Media,Medio,6,0,0.0
+876,Salud,Mediana,15424.67,Redes Sociales,31,28329,1199,546,Oriente,Media,Bajo,10,1,50636.92
+877,Otros,Mediana,13239.1,SEO/SEM,25,5683,2699,596,Oriente,Media,Medio,3,0,0.0
+878,Gastronomía,Pequeña,15369.1,Branding,24,4997,4105,921,Centro,Media,Alto,8,1,60224.39
+879,Salud,Mediana,16949.24,Diseño,1,6101,1885,708,Norte,Alta,Medio,2,0,0.0
+880,Gastronomía,Pequeña,12349.36,Diseño,11,43981,7778,842,Oriente,Baja,Medio,3,0,0.0
+881,Otros,Grande,1954.37,Branding,8,4667,3416,202,Norte,Media,Medio,8,0,0.0
+882,Educación,Pequeña,9855.03,Diseño,11,9371,9989,344,Sur,Alta,Bajo,8,1,29222.25
+883,Educación,Mediana,1737.46,Diseño,25,47216,3942,853,Sur,Baja,Medio,1,0,0.0
+884,Educación,Mediana,8269.35,SEO/SEM,8,11803,9809,523,Sur,Media,Medio,8,1,12771.46
+885,Educación,Pequeña,8260.71,Branding,9,13429,8250,859,Oriente,Media,Bajo,10,1,31328.63
+886,Retail,Mediana,1506.99,Consultoría,31,35609,5418,400,Sur,Media,Bajo,2,0,0.0
+887,Educación,Grande,7106.65,Publicidad,33,6356,3871,218,Centro,Media,Medio,7,0,0.0
+888,Otros,Mediana,2397.76,Publicidad,19,328,7416,445,Centro,Media,Medio,6,0,0.0
+889,Tecnología,Mediana,16203.06,Diseño,1,24846,2843,765,Oriente,Media,Bajo,2,0,0.0
+890,Tecnología,Grande,18964.22,Publicidad,0,16778,5295,222,Norte,Media,Alto,5,1,67815.66
+891,Retail,Pequeña,1631.87,Branding,35,37152,9599,383,Lima,Media,Medio,7,0,0.0
+892,Educación,Pequeña,19111.28,Branding,23,46132,7655,881,Norte,Baja,Medio,8,1,61503.85
+893,Educación,Mediana,10547.02,Redes Sociales,26,46258,9033,592,Norte,Media,Medio,3,0,0.0
+894,Educación,Pequeña,6131.4,Redes Sociales,1,23285,4787,7,Norte,Alta,Medio,1,0,0.0
+895,Gastronomía,Mediana,1721.87,Publicidad,30,33786,2745,272,Norte,Media,Medio,7,0,0.0
+896,Salud,Grande,10112.36,Consultoría,13,11545,8283,739,Lima,Media,Alto,5,1,23355.2
+897,Gastronomía,Pequeña,15931.41,Redes Sociales,1,33366,8288,16,Sur,Media,Alto,5,1,41434.53
+898,Salud,Pequeña,14200.31,Redes Sociales,28,2909,6378,424,Norte,Alta,Bajo,7,0,0.0
+899,Educación,Mediana,1194.48,Branding,14,37829,831,524,Centro,Alta,Medio,1,0,0.0
+900,Educación,Pequeña,1643.46,Consultoría,11,41885,7535,803,Oriente,Baja,Medio,8,0,0.0
+901,Gastronomía,Mediana,8176.89,Diseño,36,36647,172,753,Oriente,Media,Medio,10,1,20978.28
+902,Gastronomía,Pequeña,6046.75,Publicidad,27,42918,7787,21,Centro,Media,Alto,5,1,27121.76
+903,Salud,Mediana,4801.21,Redes Sociales,19,34986,1942,690,Norte,Media,Medio,8,0,0.0
+904,Tecnología,Pequeña,5763.89,Consultoría,23,6491,3545,939,Lima,Baja,Bajo,10,1,22977.59
+905,Salud,Mediana,16108.96,Consultoría,20,245,5966,228,Sur,Alta,Medio,10,1,43861.46
+906,Gastronomía,Pequeña,18598.72,Publicidad,9,14029,3456,785,Oriente,Baja,Bajo,5,0,0.0
+907,Otros,Mediana,8221.03,Consultoría,13,24426,2800,288,Sur,Media,Alto,7,1,32671.94
+908,Gastronomía,Pequeña,18141.0,Consultoría,36,30091,2717,809,Lima,Media,Medio,10,1,35528.95
+909,Otros,Mediana,6565.61,Consultoría,17,47785,7969,134,Oriente,Baja,Medio,3,0,0.0
+910,Retail,Grande,9633.45,Redes Sociales,23,37433,3943,984,Sur,Alta,Medio,2,0,0.0
+911,Gastronomía,Pequeña,4675.37,Publicidad,13,16676,3395,283,Lima,Alta,Alto,6,0,0.0
+912,Retail,Pequeña,12881.43,Consultoría,33,39505,6646,404,Sur,Media,Alto,5,1,42030.04
+913,Tecnología,Pequeña,19583.83,Consultoría,11,28564,932,665,Norte,Media,Medio,9,1,60129.3
+914,Salud,Mediana,12149.16,Redes Sociales,21,8343,8099,66,Lima,Baja,Medio,10,1,40331.82
+915,Otros,Mediana,7284.72,Publicidad,5,31701,9784,649,Sur,Media,Medio,4,0,0.0
+916,Salud,Mediana,13026.79,Branding,35,2510,574,604,Norte,Baja,Bajo,3,0,0.0
+917,Retail,Pequeña,2633.83,Redes Sociales,35,1920,3268,437,Norte,Media,Bajo,9,0,0.0
+918,Otros,Pequeña,17795.45,Publicidad,21,35389,2510,829,Lima,Alta,Bajo,8,1,74321.1
+919,Salud,Mediana,10161.06,Consultoría,13,38750,4576,934,Centro,Baja,Bajo,6,0,0.0
+920,Gastronomía,Pequeña,9097.12,Publicidad,15,34735,9189,259,Oriente,Alta,Medio,1,0,0.0
+921,Educación,Grande,11800.12,Publicidad,35,7565,6891,980,Lima,Baja,Alto,10,1,46960.04
+922,Retail,Pequeña,12570.72,Diseño,24,32539,3646,966,Norte,Alta,Medio,1,0,0.0
+923,Salud,Mediana,1621.16,Publicidad,31,27414,6040,103,Norte,Baja,Bajo,6,0,0.0
+924,Retail,Pequeña,13715.82,Branding,32,44329,233,993,Lima,Media,Medio,3,0,0.0
+925,Retail,Pequeña,4990.25,Publicidad,35,19683,6307,567,Centro,Baja,Medio,3,0,0.0
+926,Otros,Mediana,14336.26,Branding,19,27255,360,769,Oriente,Alta,Bajo,6,0,0.0
+927,Otros,Mediana,16486.19,Consultoría,17,38971,7324,101,Sur,Media,Alto,3,1,28706.98
+928,Educación,Grande,16118.38,Branding,2,12297,1938,198,Lima,Baja,Medio,10,1,62432.95
+929,Gastronomía,Pequeña,11139.52,Consultoría,22,29611,7753,813,Oriente,Media,Alto,6,1,17110.63
+930,Retail,Pequeña,10499.36,Consultoría,31,15524,8550,226,Oriente,Media,Medio,5,0,0.0
+931,Salud,Mediana,3028.94,Branding,15,48921,4742,943,Norte,Media,Medio,4,0,0.0
+932,Tecnología,Mediana,15551.85,Redes Sociales,4,340,1027,463,Sur,Alta,Bajo,8,1,76930.05
+933,Retail,Pequeña,5573.91,SEO/SEM,3,4731,2236,237,Lima,Media,Medio,2,0,0.0
+934,Retail,Pequeña,10034.57,Publicidad,20,9699,7216,26,Norte,Baja,Medio,7,0,0.0
+935,Educación,Pequeña,5828.63,Diseño,13,44562,7180,121,Norte,Baja,Alto,4,1,20261.03
+936,Gastronomía,Grande,2849.8,SEO/SEM,30,24758,6217,910,Centro,Media,Alto,2,0,0.0
+937,Tecnología,Pequeña,12665.24,Publicidad,13,37945,2429,506,Oriente,Media,Alto,7,1,40058.24
+938,Otros,Pequeña,1275.77,Publicidad,5,32674,6250,182,Lima,Media,Alto,1,0,0.0
+939,Otros,Pequeña,15023.18,Consultoría,11,36636,1903,711,Lima,Baja,Alto,4,1,77159.49
+940,Salud,Pequeña,6488.22,Publicidad,15,42010,5332,814,Lima,Media,Medio,9,1,19547.92
+941,Tecnología,Pequeña,202.67,Diseño,16,8095,7728,767,Norte,Alta,Medio,4,0,0.0
+942,Otros,Mediana,10320.36,Publicidad,22,25286,6888,634,Centro,Baja,Medio,3,0,0.0
+943,Salud,Pequeña,1127.67,Branding,13,29345,1135,543,Sur,Media,Medio,10,0,0.0
+944,Gastronomía,Mediana,5668.16,SEO/SEM,6,22913,3127,984,Norte,Media,Alto,10,1,33637.69
+945,Salud,Pequeña,14198.13,Branding,31,13376,4171,315,Sur,Media,Medio,2,0,0.0
+946,Otros,Mediana,1441.25,Diseño,14,20089,4052,991,Centro,Media,Bajo,3,0,0.0
+947,Educación,Grande,16818.9,Publicidad,16,12846,4443,797,Oriente,Media,Alto,1,1,55705.5
+948,Educación,Mediana,275.63,Diseño,33,44343,8648,618,Lima,Alta,Medio,10,0,0.0
+949,Educación,Mediana,5087.11,Consultoría,4,18657,2668,736,Sur,Baja,Bajo,8,1,12269.45
+950,Otros,Pequeña,14869.9,Branding,26,28160,3493,273,Norte,Media,Alto,1,1,34631.57
+951,Educación,Pequeña,6462.15,Branding,22,6668,2954,910,Sur,Baja,Alto,3,1,23693.29
+952,Tecnología,Mediana,2217.47,Redes Sociales,13,35469,7220,232,Oriente,Media,Bajo,3,0,0.0
+953,Gastronomía,Grande,7332.63,Publicidad,14,19141,7663,420,Lima,Media,Alto,2,1,19768.15
+954,Salud,Mediana,5553.79,Consultoría,32,6180,8797,768,Sur,Media,Alto,5,1,22922.71
+955,Salud,Mediana,16885.7,Branding,30,13954,1996,442,Oriente,Baja,Alto,10,1,59680.72
+956,Otros,Mediana,6404.29,Branding,34,2259,1084,496,Norte,Media,Alto,3,1,16456.72
+957,Educación,Pequeña,15820.86,Consultoría,16,27125,4315,24,Centro,Media,Medio,3,0,0.0
+958,Educación,Pequeña,17859.07,Diseño,27,41181,3017,109,Norte,Media,Medio,8,1,68303.14
+959,Retail,Mediana,8789.58,Diseño,18,4468,979,703,Lima,Media,Bajo,4,0,0.0
+960,Gastronomía,Grande,18216.87,Publicidad,22,34185,8782,502,Norte,Media,Bajo,4,0,0.0
+961,Tecnología,Pequeña,7670.9,Redes Sociales,31,27194,2834,859,Norte,Alta,Medio,3,0,0.0
+962,Salud,Mediana,19288.75,Branding,12,46140,1221,25,Norte,Media,Medio,1,0,0.0
+963,Retail,Pequeña,1967.93,Redes Sociales,19,1330,239,187,Norte,Media,Bajo,8,0,0.0
+964,Retail,Mediana,13802.98,Diseño,34,17617,4294,288,Lima,Alta,Medio,1,0,0.0
+965,Otros,Pequeña,9977.52,Diseño,4,24091,3195,628,Oriente,Baja,Bajo,7,0,0.0
+966,Salud,Pequeña,7875.45,SEO/SEM,8,1401,511,338,Sur,Baja,Alto,5,1,37905.52
+967,Otros,Mediana,12727.7,Publicidad,28,28710,58,878,Centro,Media,Medio,4,0,0.0
+968,Tecnología,Pequeña,14136.37,SEO/SEM,5,16027,3576,914,Sur,Media,Medio,4,0,0.0
+969,Retail,Mediana,286.39,SEO/SEM,24,34778,3065,37,Sur,Alta,Medio,8,0,0.0
+970,Retail,Mediana,3505.67,SEO/SEM,30,24566,8890,794,Centro,Alta,Bajo,6,0,0.0
+971,Gastronomía,Grande,14318.31,Publicidad,21,15004,396,137,Lima,Media,Alto,1,1,60400.89
+972,Tecnología,Pequeña,13394.43,Publicidad,1,40975,979,508,Centro,Media,Medio,10,1,56060.98
+973,Retail,Pequeña,19327.74,Consultoría,4,26181,9207,227,Lima,Media,Medio,8,1,60784.26
+974,Tecnología,Pequeña,15268.55,Redes Sociales,26,24454,5830,320,Sur,Media,Bajo,2,0,0.0
+975,Salud,Grande,19025.3,Redes Sociales,24,27861,3062,840,Lima,Media,Medio,6,0,0.0
+976,Educación,Grande,14110.3,Consultoría,7,18400,7407,916,Oriente,Media,Bajo,9,1,29870.21
+977,Retail,Mediana,6101.43,Consultoría,0,29591,2312,182,Centro,Media,Medio,1,0,0.0
+978,Gastronomía,Mediana,2286.23,Diseño,19,35625,2293,874,Oriente,Baja,Medio,6,0,0.0
+979,Salud,Mediana,15680.11,SEO/SEM,22,26632,9809,86,Sur,Media,Alto,8,1,64955.53
+980,Tecnología,Mediana,12954.15,Consultoría,31,6564,4376,467,Centro,Baja,Medio,10,1,45900.51
+981,Otros,Pequeña,1154.08,Branding,10,16662,132,926,Sur,Alta,Bajo,2,0,0.0
+982,Salud,Mediana,7329.0,Redes Sociales,23,41956,6809,53,Oriente,Baja,Bajo,5,0,0.0
+983,Retail,Pequeña,19144.64,Consultoría,10,47992,9482,860,Sur,Alta,Medio,6,0,0.0
+984,Tecnología,Mediana,10107.94,Branding,28,47128,3737,867,Centro,Media,Bajo,5,0,0.0
+985,Educación,Mediana,8768.04,Branding,25,42611,8460,235,Centro,Media,Bajo,3,0,0.0
+986,Salud,Mediana,9262.45,Branding,15,8783,9149,959,Sur,Media,Alto,4,1,29283.78
+987,Retail,Pequeña,4335.88,Diseño,34,32734,4968,779,Centro,Media,Bajo,7,0,0.0
+988,Gastronomía,Pequeña,7500.4,Diseño,19,160,534,799,Centro,Media,Alto,4,1,26559.65
+989,Otros,Pequeña,7522.3,Branding,2,9369,9089,433,Sur,Media,Bajo,9,1,24688.63
+990,Tecnología,Pequeña,1236.63,Diseño,0,23165,8409,496,Oriente,Media,Alto,10,1,5543.86
+991,Salud,Pequeña,15397.84,SEO/SEM,0,2995,158,999,Centro,Media,Medio,2,0,0.0
+992,Salud,Grande,8446.79,Branding,16,15423,8011,100,Centro,Media,Alto,5,1,17268.78
+993,Educación,Mediana,16479.16,SEO/SEM,1,12452,447,990,Centro,Baja,Bajo,8,1,71701.23
+994,Educación,Pequeña,17036.89,SEO/SEM,28,44743,3759,599,Centro,Media,Alto,5,1,75456.02
+995,Gastronomía,Pequeña,4397.48,Branding,19,49837,8196,403,Sur,Alta,Alto,10,1,12502.24
+996,Otros,Pequeña,13215.6,Redes Sociales,5,38691,4463,396,Oriente,Baja,Medio,8,1,60638.36
+997,Gastronomía,Mediana,9551.18,Branding,7,30990,5346,527,Oriente,Media,Medio,8,1,25812.68
+998,Retail,Mediana,17627.1,Branding,28,32116,4561,415,Lima,Media,Alto,9,1,56132.97
+999,Retail,Grande,4471.67,Diseño,32,12062,2833,939,Centro,Media,Bajo,10,0,0.0
+1000,Gastronomía,Pequeña,13620.7,Branding,2,33402,5738,613,Centro,Baja,Medio,6,0,0.0
